@@ -39,6 +39,8 @@ https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n_vq7ygt7uo/URBJ24qpOAI/AAAAAAAAXX4/Wa-N2u_HUGI/s1600/Teletoon+Retro+logo.png", TELETOONS | KIDS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://www.m3u.cl/logo/905_Taltal_TV.png", TALTAL KIDS
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADE KIDS
 http://194.36.190.60:8080/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg", ENERGEEK KIDS
