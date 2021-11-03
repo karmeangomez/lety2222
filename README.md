@@ -4,7 +4,9 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV",Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO
-https://vsd112.mycdn.me/hls/1492478659078.m3u8/sig/cj1Ye2Bmijw/expires/1635953645505/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/1492478659078_medium/index.m3u8
+https://vsd112.mycdn.me/hls/1492478659078.m3u8/sig/wMdrJHwICw0/expires/1636035723051/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/1492478659078_medium/index.m3u8
+#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO APP
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ttl_55rtt
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
@@ -13,6 +15,8 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS |ESTRENOS
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg", 24H | LOS SIMPSONS
@@ -71,7 +75,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-chno="560" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Spain",Anime Clásico - SPAIN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" , WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES ENTRETENIMIENTO", ESTRELLA TV 
@@ -82,10 +85,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" , AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=27&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2076600.jpg" , UNIVISION HD
-https://vsd80.mycdn.me/hls/1492478069254.m3u8/sig/JIZKf3oyOhs/expires/1635952493536/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046956801542/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2076600.jpg" , UNIVISION
-https://vsd109.mycdn.me/hls/1492478069254.m3u8/sig/M_Xhwoymuqs/expires/1635954712296/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046956801542/1492478069254_medium/index.m3u8
+https://vsd109.mycdn.me/hls/1492478069254.m3u8/sig/87_UYsdal-s/expires/1636035921168/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046956801542/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1784&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Las_Estrellas#/media/Archivo:Las_Estrellas.svg" , LAS ESTRELLAS 
@@ -174,6 +175,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="¦ CARICATURAS", nick
+http://gratis.shortgod.com/apoyapemano/tv4.php?c=a0jt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/teen920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , TEEN NICK  
@@ -270,8 +272,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAz_rFFzMlzm8pgVhcVq9PxzjOmeHWGHJSykuw=s900-mo-c-c0xffffffff-rj-k-no", RETRO TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:1 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO HD
-https://vsd128.mycdn.me/hls/1492478659078.m3u8/sig/t-OLrYH0YbM/expires/1635892587859/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/video.m3u8?p
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/9BtSyV2.png",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL HD 
@@ -322,9 +322,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/10/HBO_logo.png" , HBO
-https://vsd80.mycdn.me/hls/1509539842631.m3u8/sig/4r5VLS7JE8Q/expires/1635978576461/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4514059460167/1509539842631_medium/index.m3u8
+https://vsd80.mycdn.me/hls/1509539842631.m3u8/sig/4r5VLS7JE8Q/expires/1636035921168/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4514059460167/1509539842631_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" , HBO 2
-https://vsd118.mycdn.me/hls/1509538335303.m3u8/sig/XpC4bYSuZ6M/expires/1635979051519/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4514055593543/1509538335303_medium/index.m3u8
+https://vsd118.mycdn.me/hls/1509538335303.m3u8/sig/XpC4bYSuZ6M/expires/1636035921168/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4514055593543/1509538335303_medium/index.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", GOLDEN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=123&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", GOLDEN +
