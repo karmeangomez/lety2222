@@ -37,6 +37,8 @@ https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/rIebo__0JmQ/expires/163598200
 https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n_vq7ygt7uo/URBJ24qpOAI/AAAAAAAAXX4/Wa-N2u_HUGI/s1600/Teletoon+Retro+logo.png", TELETOONS | KIDS
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADE KIDS
 http://194.36.190.60:8080/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg", ENERGEEK KIDS
