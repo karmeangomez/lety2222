@@ -3,9 +3,9 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV",Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO
+#EXTINF:0 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2019/01/telemundo-logo.jpg", TELEMUNDO
 https://vsd112.mycdn.me/hls/1492478659078.m3u8/sig/wMdrJHwICw0/expires/1636035723051/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/1492478659078_medium/index.m3u8
-#EXTINF:0 tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2016/02/telemundo-logo.jpg", TELEMUNDO APP
+#EXTINF:0 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2019/01/telemundo-logo.jpg", TELEMUNDO APP
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ttl_55rtt
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
@@ -33,6 +33,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--BzctMfuJ--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1465361734/production/designs/536423_1.jpg", 24H | DRAGON BALL Z
 https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/rIebo__0JmQ/expires/1635982002991/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4543550070343/1543232358983_medium/index.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png", LATINO KIDS
+https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png", ANIMAX
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://scontent.fmex7-1.fna.fbcdn.net/v/t1.6435-9/217349656_341294164196646_4913546119070694201_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=675-hC2UJu0AX_OCG2_&_nc_ht=scontent.fmex7-1.fna&oh=5f5640537776794358d5012cdb9e80dc&oe=618AF69B" group-title="CANALES INFANTILES", KANADE KIDS
 http://194.36.190.60:8080/hls/kanade.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg", ENERGEEK KIDS
@@ -722,12 +726,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d3
 
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Spain",Pluto TV Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-id="61086c41fcc1f200070af07a" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/61086c41fcc1f200070af07a/colorLogoPNG.png" group-title="Kids",Barbie, Dale un extra a tu estilo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61086c41fcc1f200070af07a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS KIDS - ESTRENOS
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/1085952
 #EXTINF:-1 tvg-logo="https://t4.kn3.net/taringa/7/1/3/5/6/9/maxidragon/FDD.jpg" group-title="CINE Y SERIES", RETRO TV CARICATURAS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
