@@ -5,8 +5,6 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2019/01/telemundo-logo.jpg", TELEMUNDO
 https://vsd112.mycdn.me/hls/1492478659078.m3u8/sig/bTYk2Cm2wM8/expires/1636465693551/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/1492478659078_medium/index.m3u8
-#EXTINF:0 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2019/01/telemundo-logo.jpg", TELEMUNDO HD
-http://50.7.66.234:8080/alexi/1234/30216
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
