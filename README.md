@@ -206,7 +206,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png", NICKELODEON
-http://50.7.66.234:8080/alexi/1234/3071
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqEEVVdVJSAmWrxLEcepsVyQRNXHF6W6Xy_dfSY9S7bcEeiznClqfaUR3YPdQlctlIw4m4kvKhheXTesWpTYEO6N_kKExl0WIkWe4ixHggt5kCBGNYZa3BFpz2MB-p7kJyFTSIB4-MIXexxTz31dzwKqTD7vT80qb1vC2JVLS_WLU_cp8HltCO4lq73r5gAGUBTjLXjP7biunrjGkX5F8Xy0Gssmq73UqVaGgDlUwQDBUf7QaDLRZLva_dCqckpi-Su-qNXM0Kb1YEA43OdL5FCBk2P8IWILXFRxU4U2RTHhP9vdhBsOXL93Gj4IEv2da-IC0ka1KotvYz2KIwYBYWl4j-RRH7REAaWRcNLf8eyGAf9H61IBGTg-mUVMEPovVzd-LSm-RjJh8PWLPRjDO3jX610O6SuXazwQwizICDorLQzx6SNGS9g0_o6vbS6QSIdESgfitViYDOmsOFuy8jsvCQdT0wyRPd152L_mLDXqjxPoCzOLAI_DBby0N1Z-MS1YwxFYfe2NclQTiSMhYHRhN2Q5hpeJ3EBr4TAhm0TImUEHEglv9REfgOLg4lecbMngqDi3rSKUC2RWBSGV82hAInf-BS8jqwoUvHq-T6_vO_ce6BZ30cx5ZB3vG-G1qVLfR_Q6nYvm2qAAWeqPkiPLHYE3daTNHLwnXmpVGJCtXq080IpdMZaHjWTG9_x2K09irmJn4TkgpCylMA89H6zsSaIaDHMLxVATj-blZ904DiABKglldS13ZXN0LTIwoQI.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICK
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/teen9300
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" , TEEN NICK  
