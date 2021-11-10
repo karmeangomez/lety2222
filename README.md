@@ -3,8 +3,8 @@
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://clipground.com/images/star-tv-logo-clipart-6.jpg", ★GUIA DE CANALES★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO 
-https://vsd112.mycdn.me/hls/1492478659078.m3u8/sig/84yGo6Dp7dU/expires/1636554635880/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/3046957719046/1492478659078_medium/index.m3u8
+#EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO
+https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqAEKCLDtRBky5uW6vyKT-pXDTbv_FimEIZFjTb0Ke4gI4b075QE543VcTQtshyzjM-tJAkeBnSPTme2EilA9hJ0GaJqzo-y3Mui6QCtnqFUi1WSUfgU8h-etiXBPg2Lbz5dus7kTNKyjVMufwdVjtsRP1stcSTcbkJd3vqv7iNSzMbDY-4YJ1iyyTGibwGevKqTyPO0lJB9bD6zogo4nxEssvFfuHhEgdckfC8Td2BS65GHofJaCcgkXH1E_Zt3TbwaNS3RXU4VR924qgkyQhDYQYZ4WQiZkmukUkX1OHCgRt0Wne6Seuz1mXw8FyeRTBvDmD1EgKSdeJW5TOhTuWkZfn0zjuU1dPgxfPXIPzWGBAYNWm5-30TsWxlIxwtMI2CX-NPuxM9Ed_UyNIA46NYaarIco1Gfg4W389V5zD_2_GoGz92pYkxzolJe9h_8U1ojaFCdq4b0k12W9rFbAQiYdtacCPOeE5tY6v_nPbKK3S128QgVYbg9skpgrgtM5W3V0KPzQpOWbU7B9GT6kTzmfD7KAJzihCK8h-X8nCTc3Shpj1aQs9XF6s0th7DG21NMoPZRKOVBWmGmFPQv4LLbNfy5w4wwDatej0N2bi-PWFygeIrocOLOcJVoJfO9W9qo2EJqeEawL9PPmpGiPJi8OfGVTX5iwSb7vCHv-uj2Z7BAP40C_1g0JU5JMR3qPZ_p2oZwgb8Ekhe7PPO3xDUwrBoMWdmzy6H0P5O5j2NbIAEqCXVzLWVhc3QtMjChAg.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
@@ -127,7 +127,7 @@ https://v-ca.mybtv.net/event/163/1280x720.m3u8?start_time=2021-05-16&end_time=20
 https://v-ca.mybtv.net/event/147/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png" group-title="CANALES PRINCIPALES" , CANELA TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="CANALES PRINCIPALES" TL NOVELAS
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="CANALES PRINCIPALES", TL NOVELAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=83&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES PRINCIPALES", ESTRELLA TV 
 https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
@@ -137,9 +137,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1049&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest?cb=20190827032433&path-prefix=es" group-title="CANALES PRINCIPALES", TUDN HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=174&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/azteca-7-hd.jpg" group-title="CANALES PRINCIPALES", AZTECA 7
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CANALES PRINCIPALES", AZTECA 7
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=21&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://unimasgo.com/gold-app/gold-uploads/media/azteca-7-hd.jpg" group-title="CANALES PRINCIPALES", AZTECA 7 HD
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CANALES PRINCIPALES", AZTECA 7 HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=317&format=HLSAD&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CANALES PRINCIPALES", AZTECA 7 FHD
 https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
@@ -147,13 +147,13 @@ https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2606&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="CANALES PRINCIPALES", IMAGEN TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2298&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", NU9VE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Canal_Nu9ve.jpg" group-title="CANALES PRINCIPALES", NU9VE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=24&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", NU9VE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Canal_Nu9ve.jpg" group-title="CANALES PRINCIPALES", NU9VE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1783&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", CARACOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="CANALES PRINCIPALES", CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES PRINCIPALES", TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g64gY4z/Telemundo-INTERNACIONAL.png" group-title="CANALES PRINCIPALES", TELEMUNDO INTERNACIONAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", UNICABLE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1499&format=HLSAD&f=.m3u8
