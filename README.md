@@ -98,7 +98,7 @@ https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/m
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 58
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=738823339efd99746f9f2e27422b41a91b22258f&st.uid=580427830891&st.mq=2&st.mvid=2237346482712&st.ip=187.162.101.45&st.dla=on&st.exp=1636433544613&st.hls=on&_prevCmd=movieLayer&tkn=8332
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d3d5cca384cbe8f843d8a8b4d24f11d897ceff47&st.uid=580427830891&st.mq=2&st.mvid=2237346482712&st.ip=187.162.101.45&st.dla=on&st.exp=1636681422000&st.hls=on&_prevCmd=movieLayer&tkn=5523
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 59
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8f3066b7563b4be5f80d6b345e7eb1228151b236&st.uid=580427830891&st.mq=2&st.mvid=2237342878232&st.ip=187.162.101.45&st.dla=on&st.exp=1636510115997&st.hls=on&_prevCmd=movieLayer&tkn=952
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 60
