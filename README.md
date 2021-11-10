@@ -155,9 +155,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g64gY4z/Telemundo-INTERNACIONAL.png" group-title="CANALES PRINCIPALES", TELEMUNDO INTERNACIONAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", UNICABLE
+#EXTINF:-1 tvg-logo="https://como-funciona.com/wp-content/uploads/2019/02/unnamed-1.jpg" group-title="CANALES PRINCIPALES", UNICABLE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1499&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", AZ CLIC HD
+#EXTINF:-1 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="CANALES PRINCIPALES", AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=11&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", ONCE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8
