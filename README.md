@@ -155,29 +155,29 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?Playlis
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://como-funciona.com/wp-content/uploads/2019/02/unnamed-1.jpg" group-title="CANALES PRINCIPALES", UNICABLE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1499&format=HLSAD&f=.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="CANALES PRINCIPALES", AZ CLIC HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=11&format=HLSAD&f=.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png/172px-Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="CANALES PRINCIPALES", ONCE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png/172px-Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="CANALES PRINCIPALES", ONCE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1942&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", TELEFORMULA 
+#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/TELEFORMULA.png" group-title="CANALES PRINCIPALES", TELEFORMULA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", MEXIQUENSE TV
+#EXTINF:-1 tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/SDXF.jpg" group-title="CANALES PRINCIPALES", MEXIQUENSE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", AZ CORAZON 
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg" group-title="CANALES PRINCIPALES", AZ CORAZON 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=70&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", AZ MUNDO
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/co_az-mundo-hd_m.png" group-title="CANALES PRINCIPALES", AZ MUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=84&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", MULTIMEDIOS MTY
+#EXTINF:-1 tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="CANALES PRINCIPALES", MULTIMEDIOS MTY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2305&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", APRENDE TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Aprendetv3.png/revision/latest?cb=20121007173659" group-title="CANALES PRINCIPALES", APRENDE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=401&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", AZ CLIC
+#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="CANALES PRINCIPALES", AZ CLIC HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=11&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="CANALES PRINCIPALES", AZ CLIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=223&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", MVS TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="CANALES PRINCIPALES", MVS TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2149&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", TVC
+#EXTINF:-1 tvg-logo="http://www.pctvcanales.mx/Portals/_default/Skins/Incredible/css/tvc/logotipo-tvc-networks.png" group-title="CANALES PRINCIPALES", TVC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2156&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", A+ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8
