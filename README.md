@@ -227,7 +227,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1984&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://touristmeetstraveler.com/wp-content/uploads/National_Geographic_Kids.jpg" group-title="CANALES INFANTILES", NAT GEO KIDS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2373&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.todotvnews.com/ttvnews/2017/04/resize1_discokids20.jpg" group-title="CANALES INFANTILES", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="CANALES INFANTILES", DISCOVERY KIDS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=109&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES INFANTILES", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8 
