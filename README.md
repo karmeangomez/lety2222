@@ -159,7 +159,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=25&format=HLSAD&f=.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png/172px-Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="CANALES PRINCIPALES", ONCE HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1942&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://airecable.com/wp-content/uploads/2013/09/TELEFORMULA.png" group-title="CANALES PRINCIPALES", TELEFORMULA 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/mx-teleformula-1728.jpg" group-title="CANALES PRINCIPALES", TELEFORMULA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/SDXF.jpg" group-title="CANALES PRINCIPALES", MEXIQUENSE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
