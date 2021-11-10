@@ -97,12 +97,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 58
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d3d5cca384cbe8f843d8a8b4d24f11d897ceff47&st.uid=580427830891&st.mq=2&st.mvid=2237346482712&st.ip=187.162.101.45&st.dla=on&st.exp=1636681422000&st.hls=on&_prevCmd=movieLayer&tkn=5523
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 59
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8f3066b7563b4be5f80d6b345e7eb1228151b236&st.uid=580427830891&st.mq=2&st.mvid=2237342878232&st.ip=187.162.101.45&st.dla=on&st.exp=1636510115997&st.hls=on&_prevCmd=movieLayer&tkn=952
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2e7c796e9074bb89c581b6269d059dbd4fe440ed&st.uid=580427830891&st.mq=2&st.mvid=2237342878232&st.ip=187.162.101.45&st.dla=on&st.exp=1636690968904&st.hls=on&_prevCmd=movieLayer&tkn=2863
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 60
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b39db94bb57707083107e897d293f4e641500424&st.uid=580427830891&st.mq=2&st.mvid=2237346613784&st.ip=187.162.101.45&st.dla=on&st.exp=1636510197780&st.hls=on&_prevCmd=movieLayer&tkn=6868
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9b52eced7fe8e370acc74ad5fcf10fbd2d84d821&st.uid=580427830891&st.mq=2&st.mvid=2237346613784&st.ip=187.162.101.45&st.dla=on&st.exp=1636691069449&st.hls=on&_prevCmd=movieLayer&tkn=2396
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ★CANALES PRINCIPALES★
 https://ia601406.us.archive.org/13/items/alvin-y-las-ardillas-opening-azteca-7-elprohibido/ALVIN%20Y%20LAS%20ARDILLAS%20OPENING%20AZTECA%207%20%23ELPROHIBIDO.mp4
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="CANALES PRINCIPALES", A3SERIES
