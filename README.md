@@ -763,5 +763,4 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 
 plugin://plugin.video.youtube/play/?video_id=l_q6oT2SEv8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 2
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=l_q6oT2SEv8
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
