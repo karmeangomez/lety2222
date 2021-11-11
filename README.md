@@ -51,7 +51,7 @@ https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 https://vdohd.cl:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/magic_20211027/MAGIC.jpg" group-title="CANALES INFANTILES", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fmex7-2.fna.fbcdn.net/v/t1.6435-9/147713841_5204326662942106_384203605562421921_n.png?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=WYQ_XMn2WBUAX_DkknN&_nc_ht=scontent.fmex7-2.fna&oh=fdcb665fcaa729fdec70eb4a472a3413&oe=618CC010" group-title="CANALES INFANTILES", DREIKO KIDS
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="CANALES INFANTILES", DREIKO KIDS
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" , NICOLE BABY
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -59,7 +59,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283f
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzYZfwsJJ0QsOUzro4PDnihHfmhJxNy_N9iLA=s900-c-k-c0xffffffff-no-rj-mo", ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="185" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Animé Acción
+#EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="185" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Entretenimiento", Animé Acción | PLUTOTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tooncast_logo.jpg" group-title="CANALES INFANTILES", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
@@ -91,10 +91,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 61
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b3a200acc01cae0eee675db08a5f113da5e5c556&st.uid=580427830891&st.mq=2&st.mvid=2248839793176&st.ip=187.162.101.45&st.dla=on&st.exp=1636770445955&st.hls=on&_prevCmd=movieLayer&tkn=3523
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 62
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=42895f82f382663c1140c4b2b8a178de0cca3a6a&st.uid=580427830891&st.mq=2&st.mvid=2248840972824&st.ip=187.162.101.45&st.dla=on&st.exp=1636770524043&st.hls=on&_prevCmd=movieLayer&tkn=5520
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 63
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0060d9fc46417c2922fb5bee5d59172716425e3a&st.uid=580427830891&st.mq=2&st.mvid=2248841366040&st.ip=187.162.101.45&st.dla=on&st.exp=1636770582215&st.hls=on&_prevCmd=movieLayer&tkn=1510
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ★CANALES PRINCIPALES★
