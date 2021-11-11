@@ -5,10 +5,9 @@ https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_xg22n/live
-#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
+#EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO op2
 https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqEExzImu_ZO8Af53N4DY2unFM5FcUlMtmQREaXTdRbEXS4GWVm5qGeJYg4_ceO-aM_7ZyK1dGCijVD9YRTSBuk_MuoErC-3JAe7jUKRRMsm91KVs-XO3ht70bAaRpIQl00SaIlDp661IHDD_NfXAtBH-nT9Btq6YIr18T4VIrzT5bkgJq9N9Tsq3t32Gw41a0fcE_WAAOgyHOaOxJ3MaZsD132BpM99DVhPzu_-m67-iTy_hVr2HwrY04NSdo76TrkHG7PYoft7_UJrjyrLCNVk-lecT-ytXD_4oGreZyB6ra3hS4hbis_Wm0nOpi2xpq_meNhmbRoifiC-LwIdpUJuj209WfpTqWdJC-giJ2Fk3VaGUPqQH50xSvFRJS10EVu36h4Ecc2Rj6Hs2W-myZFVQchNignlFu5v1Hhc7kojVlAa0Erj11Yh5KJF42sX94jm3rNuEooO2sLMsFzfygnk0JXfksPO8QlYJy6TKH8THS3qTFb48mFgeyXHR1_SnOSy4ss5H4cCE17W0PUQ6zL2PjKnnswZ2RToBCejeQ7SnO_ZFVpYCUTO5yEsMbXDuFI6KGJyA4Ys5whBJIsQhQcV7ZskxURA3Z1easStEJ6zB4o1srOP7XjgDm_hShS1Rgp2zKncc8u04spIrlqVpdFUKv6oG7SFg1VNPSaDARO_n5UgMaVZSBgH9cMmBVd0pWakCs6OyiapuZWf32t4MJvxDyoaDNZ8D7P3jGqaH6kLnyABKglldS13ZXN0LTIwowI.m3u8
-
-
+#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
