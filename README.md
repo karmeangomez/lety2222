@@ -15,10 +15,6 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.critictoo.com/wp-content/uploads/2021/10/Chucky-Saison-1-SyFy.jpg", CAP1 CHUCKY LA SERIE
-https://streamtape.com/get_video?id=WQ30OjrZMXtb6G4&expires=1636499963&ip=F0uTKRWPDy9XKxR&token=S6PR64flXN-P&stream=1
-#EXTINF:-1 tvg-logo="https://images.critictoo.com/wp-content/uploads/2021/10/Chucky-Saison-1-SyFy.jpg", CAP2 CHUCKY LA SERIE
-https://streamtape.com/get_video?id=DGAwaMYzJOUko6p&expires=1636500156&ip=F0uTKRWPDy9XKxR&token=TGKTkkeYNoiV&stream=1
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://i.imgur.com/b095FzU.jpg", LIM TV | ESTRENOS
