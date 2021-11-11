@@ -95,6 +95,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 61
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b3a200acc01cae0eee675db08a5f113da5e5c556&st.uid=580427830891&st.mq=2&st.mvid=2248839793176&st.ip=187.162.101.45&st.dla=on&st.exp=1636770445955&st.hls=on&_prevCmd=movieLayer&tkn=3523
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 62
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=42895f82f382663c1140c4b2b8a178de0cca3a6a&st.uid=580427830891&st.mq=2&st.mvid=2248840972824&st.ip=187.162.101.45&st.dla=on&st.exp=1636770524043&st.hls=on&_prevCmd=movieLayer&tkn=5520
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 63
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0060d9fc46417c2922fb5bee5d59172716425e3a&st.uid=580427830891&st.mq=2&st.mvid=2248841366040&st.ip=187.162.101.45&st.dla=on&st.exp=1636770582215&st.hls=on&_prevCmd=movieLayer&tkn=1510
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ★CANALES PRINCIPALES★
 https://ia601406.us.archive.org/13/items/alvin-y-las-ardillas-opening-azteca-7-elprohibido/ALVIN%20Y%20LAS%20ARDILLAS%20OPENING%20AZTECA%207%20%23ELPROHIBIDO.mp4
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="CANALES PRINCIPALES", A3SERIES
