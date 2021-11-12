@@ -344,7 +344,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=71&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" group-title="CANALES ENTRETENIMIENTO", GLITZ
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=76&format=HLSAD&f=.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="CANALES ENTRETENIMIENTO", GOURMET 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="CANALES ENTRETENIMIENTO", GOURMET 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=74&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8
