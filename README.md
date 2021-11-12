@@ -346,13 +346,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=76&format=HLSAD&f=.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/Logo-El-Gourmet.png" group-title="CANALES ENTRETENIMIENTO", GOURMET 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=74&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR LIFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANALES ENTRETENIMIENTO", STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", TRUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="CANALES ENTRETENIMIENTO", TRUTV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=79&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", LIFETIME 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="CANALES ENTRETENIMIENTO", LIFETIME 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=94&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", ANTENA 3
+#EXTINF:-1 tvg-logo="https://assets.fontsinuse.com/static/use-media-items/67/66342/full-1000x768/5ad8d23f/antena3_logo_nuevo.jpeg?resolution=0" group-title="CANALES ENTRETENIMIENTO", ANTENA 3
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=199&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", MAS CHIC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1842&format=HLSAD&f=.m3u8
