@@ -6,7 +6,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 #EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_xg22n/live
 #EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO op2
-https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CqEECNIdjoa46PyhRdJUSM9chqfvf9n_ezJLDPx0jAiePOraZ7jse9xkltUp6Is6z9hgeR2lz2c_j7wV7Iasr02SEwql2zeTqpwhyUf9zQd5MibZmyrVGmiRCDLGTXz2zK94uATLQtlCPBMYsjok2W0RJKuO5OFMkdnIt6CycjwqvLH7qdANOXho1D16rJrKmsrXl6IpSCppBg_m5M5Gh8Gup5mOtibaWZyxbTTIDIjjaQxNAMMYo0S6GzBiRe91x2x7IduZyd5AVnXOeTpfVS0D5GAHYkPXhkuiqBpib8esnxtACsdEyMYEli3ckFoujciS2Ue_CpKMQJee1woQ6QUvfio5s4HVESG7sks928gqWAYnnVOkRSU3tvABuhlC-wdSHIwlRobLlVhOdqpso_CVb76hYgVqPqVdpCfYAnPIRMamssgFpo5lYDkfAVEo9uAhboc7HXLSGtlAng3EqWDtrfPSzDqrFdbbOqTlDWhUsndukEl4OS2oH2fIh9uYSMeUpCsB70U_EZO-V3JHC5bSuwdJ3ryxlzhbhk9_LtJR2lUcDl8adYhDlYgAhCvIDyOQvwRZrdFlXC5lR_Hmf5RJN1ChOi798nLzUinDYitxDddBq8N3Jf8uC-xqLN153IC_7H12rk3EpCu-nYQvJ119Ytl_7tCTwt8GnmcR3WaEzy8PTkQZ9F_sYTbXWdJmCn28fr_QredqiMY8KbxKZdzkDE8aDAWa5amKs7omCOW8oiABKglldS13ZXN0LTIwpAI.m3u8
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CqEEOY-OAml-DL_dnvSAC4BhNcmydKzhEmWyE4AB1Gz3EcuBPMinBNXltjuD6VpykIbS-HHXKcB9DkKDpyVrySLo0gfJbfo1ov5K-ePvjqZWkh57UI7GuIhjACL5Kf0_MCXBvuqbJ5ebfD9L6W9WQZPZVBmsbxis7Vxg7vaUK1bRfwA9Z6dsNJ5h6wizpVJMmlO6MXnk9onZ3TVhRf-zZAIkGAWu8WrE0TZYikDh8TmOldT0Jr6BBZeEejt1s-WSG2WpotDLR72RZ1HURub4swD4zLTq4FcuBWhOscyRwcADGsUFqh9AWThfdeM1lY50b0hgr4lTT-xrZxMTPP8sh6uZMqNyNyDkeAcdr3TGxHdHHwrvZr4r44-nZWEnarkNXjfOvwsQ0gZvbbopehSOcAZOVdrfim_QlaVDz3naSc7RZX4pCeDe6_KOtqI6CpvcKzQ3R-yzvEiQQLzSmLZswzAU5TBYyV56pOzIJcwgOPnteapor5XfMxNU7ddy3dH2ds1JOCoIvB3dfK87PJzEAxpKGNC2u1tLAWikDG9r6Mpck5MQbINdERQw5x_w6mSLnh4J7fiG2kfajEYvU7UtW-iGPjlJb9XAjSGTpGJ7K0xeO2xYGfCihbKUPDxEDHihZ3BKBhMgVXealmye6jVB7ptkqHhFpONr9AF7x1TiTU6H0uId_RUK0cEbuhWlTZA-natkn2R3jiOiSg7H-L4DQIFEfUEaDDAPLvHoDGT1MCJCYCABKglldS13ZXN0LTIwpAI.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
@@ -318,11 +318,11 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=201&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=201&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="CANALES ENTRETENIMIENTO", DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6s6MMGzdiRc/Usdhh5GxUDI/AAAAAAAADkY/55iEN2tncic/s1600/distrito+comedia+m%C3%A9xico+sivergameTV.png" group-title="CANALES ENTRETENIMIENTO", DISTRITO COMEDIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=78&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="CANALES ENTRETENIMIENTO", COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=340&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1200px-Canal_Sony_logo.svg.png" group-title="CANALES ENTRETENIMIENTO", SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CANALES ENTRETENIMIENTO", SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=48&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png" group-title="CANALES ENTRETENIMIENTO", WARNER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=52&format=HLSAD&f=.m3u8 
@@ -334,17 +334,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=59&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="CANALES ENTRETENIMIENTO", FX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=60&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg?w=446&h=299&crop=1" group-title="CANALES ENTRETENIMIENTO", A&E
+#EXTINF:-1 tvg-logo="https://vercanalestv.live/wp-content/uploads/2020/11/AE.jpg" group-title="CANALES ENTRETENIMIENTO", A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=62&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="CANALES ENTRETENIMIENTO", AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=64&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/15-sundance.png" group-title="CANALES ENTRETENIMIENTO", SUNDANCE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" group-title="CANALES ENTRETENIMIENTO", SUNDANCE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=69&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="CANALES ENTRETENIMIENTO", TNT SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=71&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" group-title="CANALES ENTRETENIMIENTO", GLITZ
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=76&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", GOURMET 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="CANALES ENTRETENIMIENTO", GOURMET 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=74&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO", STAR LIFE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8
