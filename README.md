@@ -2,11 +2,9 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/3C5Kh8D" ,★STARGO!★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3wDgP8K", ★GUIA★
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_xg22n/live
-#EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO op2
-https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CqEEOY-OAml-DL_dnvSAC4BhNcmydKzhEmWyE4AB1Gz3EcuBPMinBNXltjuD6VpykIbS-HHXKcB9DkKDpyVrySLo0gfJbfo1ov5K-ePvjqZWkh57UI7GuIhjACL5Kf0_MCXBvuqbJ5ebfD9L6W9WQZPZVBmsbxis7Vxg7vaUK1bRfwA9Z6dsNJ5h6wizpVJMmlO6MXnk9onZ3TVhRf-zZAIkGAWu8WrE0TZYikDh8TmOldT0Jr6BBZeEejt1s-WSG2WpotDLR72RZ1HURub4swD4zLTq4FcuBWhOscyRwcADGsUFqh9AWThfdeM1lY50b0hgr4lTT-xrZxMTPP8sh6uZMqNyNyDkeAcdr3TGxHdHHwrvZr4r44-nZWEnarkNXjfOvwsQ0gZvbbopehSOcAZOVdrfim_QlaVDz3naSc7RZX4pCeDe6_KOtqI6CpvcKzQ3R-yzvEiQQLzSmLZswzAU5TBYyV56pOzIJcwgOPnteapor5XfMxNU7ddy3dH2ds1JOCoIvB3dfK87PJzEAxpKGNC2u1tLAWikDG9r6Mpck5MQbINdERQw5x_w6mSLnh4J7fiG2kfajEYvU7UtW-iGPjlJb9XAjSGTpGJ7K0xeO2xYGfCihbKUPDxEDHihZ3BKBhMgVXealmye6jVB7ptkqHhFpONr9AF7x1TiTU6H0uId_RUK0cEbuhWlTZA-natkn2R3jiOiSg7H-L4DQIFEfUEaDDAPLvHoDGT1MCJCYCABKglldS13ZXN0LTIwpAI.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
@@ -93,8 +91,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 63
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0060d9fc46417c2922fb5bee5d59172716425e3a&st.uid=580427830891&st.mq=2&st.mvid=2248841366040&st.ip=187.162.101.45&st.dla=on&st.exp=1636770582215&st.hls=on&_prevCmd=movieLayer&tkn=1510
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 64
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=523f045c72530f715f566d39ecb0ede4f3d7a5c5&st.uid=580427830891&st.mq=2&st.mvid=2248841693720&st.ip=187.162.101.45&st.dla=on&st.exp=1636858786316&st.hls=on&_prevCmd=movieLayer&tkn=4638
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 65
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cc1a6ecfbeb4cda36ab8ce3152d56796c96d9cb8&st.uid=580427830891&st.mq=2&st.mvid=2248843528728&st.ip=187.162.101.45&st.dla=on&st.exp=1636859103517&st.hls=on&_prevCmd=movieLayer&tkn=2527
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 66
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9006d94214d9e80e17525a494cbc0e08a750d874&st.uid=580427830891&st.mq=2&st.mvid=2248843921944&st.ip=187.162.101.45&st.dla=on&st.exp=1636859134061&st.hls=on&_prevCmd=movieLayer&tkn=190
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ★CANALES PRINCIPALES★
 https://ia601406.us.archive.org/13/items/alvin-y-las-ardillas-opening-azteca-7-elprohibido/ALVIN%20Y%20LAS%20ARDILLAS%20OPENING%20AZTECA%207%20%23ELPROHIBIDO.mp4
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="CANALES PRINCIPALES", A3SERIES
