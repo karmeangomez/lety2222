@@ -45,8 +45,6 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="Kids",MI TV Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="Kids",Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Kids",Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-chno="718" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids",Rugrats Crecidos
@@ -785,9 +783,7 @@ plugin://plugin.video.youtube/play/?video_id=l_q6oT2SEv8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 2
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 64
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=523f045c72530f715f566d39ecb0ede4f3d7a5c5&st.uid=580427830891&st.mq=2&st.mvid=2248841693720&st.ip=187.162.101.45&st.dla=on&st.exp=1636858786316&st.hls=on&_prevCmd=movieLayer&tkn=4638
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 65
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cc1a6ecfbeb4cda36ab8ce3152d56796c96d9cb8&st.uid=580427830891&st.mq=2&st.mvid=2248843528728&st.ip=187.162.101.45&st.dla=on&st.exp=1636859103517&st.hls=on&_prevCmd=movieLayer&tkn=2527
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 66
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9006d94214d9e80e17525a494cbc0e08a750d874&st.uid=580427830891&st.mq=2&st.mvid=2248843921944&st.ip=187.162.101.45&st.dla=on&st.exp=1636859134061&st.hls=on&_prevCmd=movieLayer&tkn=190
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 67
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8196a59e1388b08b913576c61aa2ce5c54850f0a&st.uid=580427830891&st.mq=2&st.mvid=2248844577304&st.ip=187.162.101.45&st.dla=on&st.exp=1636947350164&st.hls=on&_prevCmd=movieLayer&tkn=391
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 68
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c5c4cc30fa78e3e74976e64994ab65e0da355396&st.uid=580427830891&st.mq=2&st.mvid=2248844970520&st.ip=187.162.101.45&st.dla=on&st.exp=1636947421861&st.hls=on&_prevCmd=movieLayer&tkn=6913
