@@ -11,6 +11,12 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://i.imgur.com/b095FzU.jpg", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids", 24H | EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg", 24H | LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a8/dd/4f/a8dd4f5f087775f4b37a6640fdb280c9.jpg" group-title="Kids", 24H | LOS SIMPSONS 2 
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
@@ -31,12 +37,6 @@ https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w2007575975.m3u8
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="1001" tvg-name="La Granja TV" tvg-logo="https://www.m3u.cl/logo/1001_La_Granja_TV.png", La Granja 
 https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids", 24H | EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg", 24H | LOS SIMPSONS
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a8/dd/4f/a8dd4f5f087775f4b37a6640fdb280c9.jpg" group-title="Kids", 24H | LOS SIMPSONS 2 
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Kids",Toonizaki
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="Kids",MI TV Clasica
