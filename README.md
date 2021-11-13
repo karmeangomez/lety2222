@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3C5Kh8D" ,★STARGO!★
+#EXTINF:-1 tvg-logo="https://bit.ly/3omSSyR" ,★STARGO!★
 https://archive.org/serve/cartoon-network-usa-movie-bumpers-dimensional-rebrand-2016-made-by-bent-image-lab/Cartoon%20Network%20USA%20Movie%20Bumpers%20Dimensional%20Rebrand%202016%20%28Made%20By%20Bent%20Image%20Lab%29.mp4
-#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3wDgP8K", ★GUIA★
+#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="http://static3.wikia.nocookie.net/__cb20121209030210/logopedia/images/5/54/Telemundo_39_Dallas_2012.jpg", TELEMUNDO
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_205llt
@@ -21,9 +21,9 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://i.imgur.com/b095FzU.jpg", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png" group-title="Kids", PLANETA MOVIES
+#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Kids", PLANETA KIDS
+#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS | STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
