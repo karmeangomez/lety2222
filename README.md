@@ -27,9 +27,9 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg" group-title="LATINO",GenTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg" group-title="LATINO",GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w2007575975.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",Juntos HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
@@ -43,8 +43,6 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UC
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Kids",Toonizaki
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/soI8ie9.png" group-title="Kids",RCN KIDS
-https://59ce1298bfb98.streamlock.net/rcntv/rcntv/chunklist_w903201593.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="Kids",MI TV Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="Kids",Retro Play TV
@@ -63,8 +61,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f04
 https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Kids", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Kids", LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n_vq7ygt7uo/URBJ24qpOAI/AAAAAAAAXX4/Wa-N2u_HUGI/s1600/Teletoon+Retro+logo.png" group-title="Kids", TELETOON KIDS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://www.m3u.cl/logo/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
@@ -780,6 +776,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7
 https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/OaHZJmkzly8/expires/1636465693551/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4543550070343/1543232358983_medium/index.m3u8
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://i.imgur.com/D9wFBkQ.png" group-title="Kids",JETIX
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Kids", LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 
