@@ -315,7 +315,7 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", ★CANALES ENTRETENIMIENTO★
-https://ia601404.us.archive.org/26/items/star-channel-graficas-2021/STAR%20Channel%20-%20Gr%C3%A1ficas%202021.mp4
+https://archive.org/serve/star-channel-graficas-2021/STAR%20Channel%20-%20Gr%C3%A1ficas%202021.mp4
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CANALES ENTRETENIMIENTO", DANTV - RECOMENDADO
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CANALES ENTRETENIMIENTO", CHIQUILINES
