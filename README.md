@@ -779,7 +779,9 @@ plugin://plugin.video.youtube/play/?video_id=l_q6oT2SEv8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 2
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 67
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8196a59e1388b08b913576c61aa2ce5c54850f0a&st.uid=580427830891&st.mq=2&st.mvid=2248844577304&st.ip=187.162.101.45&st.dla=on&st.exp=1636947350164&st.hls=on&_prevCmd=movieLayer&tkn=391
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 68
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c5c4cc30fa78e3e74976e64994ab65e0da355396&st.uid=580427830891&st.mq=2&st.mvid=2248844970520&st.ip=187.162.101.45&st.dla=on&st.exp=1636947421861&st.hls=on&_prevCmd=movieLayer&tkn=6913
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 69
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=845849fd1894a3e03341139c46bfac436386e218&st.uid=580427830891&st.mq=2&st.mvid=2248845363736&st.ip=187.162.101.45&st.dla=on&st.exp=1637031540027&st.hls=on&_prevCmd=movieLayer&tkn=5036
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 70
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b0067100eca686b17b66acd077120782ce3534c&st.uid=580427830891&st.mq=2&st.mvid=2249086994968&st.ip=187.162.101.45&st.dla=on&st.exp=1637031742006&st.hls=on&_prevCmd=movieLayer&tkn=551
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 71
+https://vd254.mycdn.me/expires/1636945469126/srcIp/187.162.101.45/srcAg/SAFARI_IPHONE_OTHER/ms/185.226.52.4/type/3/sig/32Pg57z6bdo/ct/8/urls/45.136.22.4/clientType/1/zs/65/id/808505969176/video/
