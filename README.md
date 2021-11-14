@@ -784,4 +784,4 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=845849fd1894a3
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 70
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b0067100eca686b17b66acd077120782ce3534c&st.uid=580427830891&st.mq=2&st.mvid=2249086994968&st.ip=187.162.101.45&st.dla=on&st.exp=1637031742006&st.hls=on&_prevCmd=movieLayer&tkn=551
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 71
-https://vd254.mycdn.me/expires/1636945469126/srcIp/187.162.101.45/srcAg/SAFARI_IPHONE_OTHER/ms/185.226.52.4/type/3/sig/32Pg57z6bdo/ct/8/urls/45.136.22.4/clientType/1/zs/65/id/808505969176/video/
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4139eabda52a6df06cf087eced3d69a956227f1c&st.uid=580427830891&st.mq=2&st.mvid=2249090140696&st.ip=187.162.101.45&st.dla=on&st.exp=1637031862828&st.hls=on&_prevCmd=movieLayer&tkn=2893
