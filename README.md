@@ -779,9 +779,10 @@ plugin://plugin.video.youtube/play/?video_id=l_q6oT2SEv8
 #EXTINF:-1 group-title="CANALES PRINCIPALES", yt 2
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 69
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=845849fd1894a3e03341139c46bfac436386e218&st.uid=580427830891&st.mq=2&st.mvid=2248845363736&st.ip=187.162.101.45&st.dla=on&st.exp=1637031540027&st.hls=on&_prevCmd=movieLayer&tkn=5036
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 70
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b0067100eca686b17b66acd077120782ce3534c&st.uid=580427830891&st.mq=2&st.mvid=2249086994968&st.ip=187.162.101.45&st.dla=on&st.exp=1637031742006&st.hls=on&_prevCmd=movieLayer&tkn=551
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 71
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4139eabda52a6df06cf087eced3d69a956227f1c&st.uid=580427830891&st.mq=2&st.mvid=2249090140696&st.ip=187.162.101.45&st.dla=on&st.exp=1637031862828&st.hls=on&_prevCmd=movieLayer&tkn=2893
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 72
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=772e477849ce60a4ca2182f95a3d81df5c2ffdd7&st.uid=580427830891&st.mq=2&st.mvid=2249090927128&st.ip=187.162.101.45&st.dla=on&st.exp=1637117175977&st.hls=on&_prevCmd=movieLayer&tkn=8405
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 73
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c4a2f6e9241a3b17ab516aa88fd83c15c9af041b&st.uid=580427830891&st.mq=2&st.mvid=2249126447640&st.ip=187.162.101.45&st.dla=on&st.exp=1637117261977&st.hls=on&_prevCmd=movieLayer&tkn=3875
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 74
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=37afbf4a9a3b0f38aee8935b12c31632b0d9018c&st.uid=580427830891&st.mq=2&st.mvid=2249126709784&st.ip=187.162.101.45&st.dla=on&st.exp=1637117390587&st.hls=on&_prevCmd=movieLayer&tkn=7876
+
