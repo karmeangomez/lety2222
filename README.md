@@ -21,6 +21,8 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UC
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", TELEMUNDO
+https://video-weaver.ord03.hls.ttvnw.net/v1/playlist/CqIE8C6Zy-UO0Izl3ag5XolobESIQCgBK_ZsTAyhJMOfSkAd0bqxK0vhg59FGRL8aklbcYesdPZmtKk8pa021dF1mISejjY_zvGCbPK6kgprsvmy1Z6a5qQ11rE1mkMr56IHKzK0r0EYND9EUzVdzd5854yZ8uqiqOsVpCHwaeBnKhalMVvvwxBgwowYl-fEgPbtrjWTuk_bi9AgeQzOsub7ZN8qyfW6Fgv3scu7QO8SgZhrnvWuNCE4RCrrDY7CWsScp2j3IwcOrgwjjjWs9i7hJPGqyaNzQnnoe-Vno8OXoBPTvS1UJRtzApIVYDcxiqtw60_KbFG0NSV6_WV_UohenMsemr6ZnmRJwkwCgDUk0SGWH_Dderobdfa08GUvk68hml2sdmUmlTjCG4Taj_cq46iJA4XDV8t2pz4m6Upeqm8DqCsCo7c_rNpX3TIFVIMkUgpFguG7EHJoa3D8wAs9Sl62R1mJo2WHENSmtBM_-VOXHejh3gJ_jEXXmpnQxmUpr_pML7jA1lE-qWP-Bj6mCmdTTSek5C0UfAs9mlz7QHvt0e678oYBfWd6UTVQ__-oNYiRFrOjVA9BPq15Xzn_PkJI660a8n373Ge_aPD7t36sjk2002CombeEzifoZuhPYw7rLypTsZbh77AsCQ6FKpIsYcgakiP1yk6F-wI56BTx4C-Ot4RCxzeM9V7f-WPQEvFt4QJHnwGeA-zIga5J4MSaGgykGNPWDJfb5TLOTD0gASoJdXMtd2VzdC0yMKcC.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
