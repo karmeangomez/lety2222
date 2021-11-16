@@ -770,16 +770,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d3
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Spain",Pluto TV Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--BzctMfuJ--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1465361734/production/designs/536423_1.jpg", 24H | DRAGON BALL Z
-https://vsd131.mycdn.me/hls/1543232358983.m3u8/sig/OaHZJmkzly8/expires/1636465693551/srcIp/187.162.101.45/clientType/1/srcAg/SAFARI_IPHONE_OTHER/mid/4543550070343/1543232358983_medium/index.m3u8
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://i.imgur.com/D9wFBkQ.png" group-title="Kids",JETIX
 https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES PRINCIPALES", yt 
-plugin://plugin.video.youtube/play/?video_id=l_q6oT2SEv8
-#EXTINF:-1 group-title="CANALES PRINCIPALES", yt 2
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ8noqpuT2-xhQS4LbG6Kkg/live
 
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 72
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=772e477849ce60a4ca2182f95a3d81df5c2ffdd7&st.uid=580427830891&st.mq=2&st.mvid=2249090927128&st.ip=187.162.101.45&st.dla=on&st.exp=1637117175977&st.hls=on&_prevCmd=movieLayer&tkn=8405
