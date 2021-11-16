@@ -98,7 +98,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=27&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="CANALES PRINCIPALES" , -2H | AZTECA UNO
 https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://bit.ly/326XGB8g" group-title="CANALES PRINCIPALES", A+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3kH3nfu" group-title="CANALES PRINCIPALES", A+ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_01/medium.5885442634ba9_LasEstrellas2017.png.8afa54dc20f835382e86984dfa3c1434.png" group-title="CANALES PRINCIPALES", LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1784&format=HLSAD&f=.m3u8
@@ -166,9 +166,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://live10.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="CANALES PRINCIPALES", MVS TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2149&format=HLSAD&f=.m3u8
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="CANALES PRINCIPALES", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/GtXNFhFn/estrella_news.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA NEWS
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/GtXNFhFn/estrella_news.png" group-title="CANALES PRINCIPALES", ESTRELLA NEWS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1213801-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=519301a0-daea-42d0-a3b7-ebe62e4fb5df&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Aprendetv3.png/revision/latest?cb=20121007173659" group-title="CANALES PRINCIPALES", APRENDE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=401&format=HLSAD&f=.m3u8
