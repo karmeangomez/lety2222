@@ -779,10 +779,9 @@ https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/m
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 72
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=772e477849ce60a4ca2182f95a3d81df5c2ffdd7&st.uid=580427830891&st.mq=2&st.mvid=2249090927128&st.ip=187.162.101.45&st.dla=on&st.exp=1637117175977&st.hls=on&_prevCmd=movieLayer&tkn=8405
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 73
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c4a2f6e9241a3b17ab516aa88fd83c15c9af041b&st.uid=580427830891&st.mq=2&st.mvid=2249126447640&st.ip=187.162.101.45&st.dla=on&st.exp=1637117261977&st.hls=on&_prevCmd=movieLayer&tkn=3875
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 74
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=37afbf4a9a3b0f38aee8935b12c31632b0d9018c&st.uid=580427830891&st.mq=2&st.mvid=2249126709784&st.ip=187.162.101.45&st.dla=on&st.exp=1637117390587&st.hls=on&_prevCmd=movieLayer&tkn=7876
-
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 75
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c264e8422eef9bc92c1fe5396f5481b60c9e5e30&st.uid=580427830891&st.mq=2&st.mvid=2249127299608&st.ip=187.162.101.45&st.dla=on&st.exp=1637203689723&st.hls=on&_prevCmd=movieLayer&tkn=642
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 76
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fb19d962ef07f8dd9bfe6fd92b752c4fe9f63984&st.uid=580427830891&st.mq=2&st.mvid=2249188706840&st.ip=187.162.101.45&st.dla=on&st.exp=1637203770073&st.hls=on&_prevCmd=movieLayer&tkn=2942
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 77
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4fe1db04ac824cd5e0693b316402b46d06b33782&st.uid=580427830891&st.mq=2&st.mvid=2249189427736&st.ip=187.162.101.45&st.dla=on&st.exp=1637203849566&st.hls=on&_prevCmd=movieLayer&tkn=912
