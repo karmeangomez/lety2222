@@ -19,20 +19,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?Pl
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a8/dd/4f/a8dd4f5f087775f4b37a6640fdb280c9.jpg" group-title="Kids", 24H | LOS SIMPSONS 2 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", -2H | TELEMUNDO
-https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", TELEMUNDO
-https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqEElTtV2rDTJizWwUthpe5wrOFxahXAhqCrZHEy8HJ9FIWvqCimRkHd8OduZzxBvisyEwRi933cm97Z-BOlqlanQfa2_i5wZS5RtUyC2i7q0atf7BWCyu9W9qrOZ1iSHL67dT4wB4lyCNZ95KH5P_EHFUFSgHAPFJyG53CFevV5HE08TgJV1RuV2voRRoB00Ld4NI0SWR4N2c158nXbGGnWHCjKHNqD3V2uZCdPGNL2oec_AOulYJR1q8wfQbDUHwbNvPqLovo7n6O-yBw6wFyMq2G5k8vuXGnp3URICwGlkeb1v1092WOy78vgXyBVyHuuCOj_0CHLltjpae_6DLgQFYh4zt_4n4Bl8B1pvhq73DGBuC8Z3ASBO7cpsV4c0-TyzVzr3R07wH1mgsi7aMxYrA6E6uFKO078-G7-ROXBSurT_OmJ2zIxquDrxG7zIKv7c3Xtwih3zqV8wEFsIzh6mAaaoq1MuD4puR-mhgLaYH1NcbNeh5mZVb_FWvT-Nt7fqGKP3VWtfQI2qcqbGVn39FVbVPLj9hHfgqaV76RCQxGIjRXYAbXjenRXJ29437PYuyqnUROpCDLoDix1SQLI31dJ9MzN-FKpsUysNG8nbdapPA4gS5wUdyRukTWQCcKrZ0-2nRa89eLR25sfuaRI8tuaLV4KSAAcPvJZA1Y3W_tkDWhMgLfs_JnkBqJn5j0zovt89Cagc7Q-5xjmt7VfozUaDLNfSizvg1JGrJ0c0CABKglldS13ZXN0LTIwqAI.m3u8
-#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", TELEMUNDO app
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tl_11vbn
-#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM1 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM2 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM3 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheatsheet.com/wp-content/uploads/2021/07/lacasadelosfamosos-telemundo-640x427.jpg", 24H |CAM4 LA CASA DE LOS FAMOSOS
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wGw3dn" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg" group-title="LATINO",GENTV HD
@@ -107,6 +93,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c3
 https://bit.ly/3qB85iD
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="CANALES PRINCIPALES", A3SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
+#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", USA | TELEMUNDO
+https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Azteca_Uno_%282020%29.svg/revision/latest/scale-to-width-down/1000?cb=20210425072901" group-title="CANALES PRINCIPALES" , AZTECA UNO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png" group-title="CANALES PRINCIPALES" , AZTECA UNO
