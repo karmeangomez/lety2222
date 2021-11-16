@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7", ★STARGO!★
-https://bit.ly/32cXC2V
+https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA CANALES★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
@@ -23,12 +23,14 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wGw3dn" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg" group-title="LATINO",GENTV HD
-https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",JUNTOS HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="Kids",Toonizaki
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/magic_20211027/MAGIC.jpg" group-title="Kids", MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Kids",Rakuten TV Familia
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-chno="718" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Kids",Rugrats Crecidos
@@ -51,10 +53,6 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg" group-title="Kids", ENERGEEK KIDS
 https://vdohd.cl:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/magic_20211027/MAGIC.jpg" group-title="Kids", MAGIC KIDS
-https://live.admefy.com/live/clean_peach_ef224.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ia803406.us.archive.org/32/items/c-192-d-6-df-cc-2-c-4-ba-6-8506-9866-a-7-a-7234-b/C192D6DF-CC2C-4BA6-8506-9866A7A7234B.jpeg" group-title="Kids", NICOLE BABY
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/11/items/5-f-5-ffbb-2-d-2-fe-4-f-41-80-e-9-cb-1090-aa-48-a-8/5F5FFBB2-D2FE-4F41-80E9-CB1090AA48A8.jpeg" group-title="Kids", MANE BABY
@@ -766,6 +764,8 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM
 https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w2007575975.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://diarioanticipos.com/wp-content/uploads/2020/04/Gen-TV-Foto-Anticipos.jpg" group-title="LATINO",GENTV HD
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 75
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c264e8422eef9bc92c1fe5396f5481b60c9e5e30&st.uid=580427830891&st.mq=2&st.mvid=2249127299608&st.ip=187.162.101.45&st.dla=on&st.exp=1637203689723&st.hls=on&_prevCmd=movieLayer&tkn=642
