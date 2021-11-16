@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7", ★STARGO!★
-https://bit.ly/3De65jK
+https://bit.ly/32cXC2V
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA CANALES★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
@@ -773,3 +773,5 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c264e8422eef9b
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fb19d962ef07f8dd9bfe6fd92b752c4fe9f63984&st.uid=580427830891&st.mq=2&st.mvid=2249188706840&st.ip=187.162.101.45&st.dla=on&st.exp=1637203770073&st.hls=on&_prevCmd=movieLayer&tkn=2942
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 77
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4fe1db04ac824cd5e0693b316402b46d06b33782&st.uid=580427830891&st.mq=2&st.mvid=2249189427736&st.ip=187.162.101.45&st.dla=on&st.exp=1637203849566&st.hls=on&_prevCmd=movieLayer&tkn=912
+CANAL
+https://bit.ly/3De65jK
