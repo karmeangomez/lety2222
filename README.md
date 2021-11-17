@@ -198,8 +198,8 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/3119
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="Kids", NICKELODEON
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqEE7OF7zY9K4MnboCDEKkRPkHqjdMQ_ZRJLAMCst6gavHsWqa0IcYYKa45ptHFVwlpfSGjWw4LvCdAygeKNy0x9KEUeu3HhGxtp9L-hteqTXNp4cDtt7Obfq-ZSQ4fSbMzChIXWpQQZbZ4E7ZHcEVsRmRe1elQezrcD7yrx_FLvavp_CJqBYSpnGnGJlJYPzfKx0JQ4ibA2sA9-NHym1Mml-0IluYuu6xlrzyTQWFh_kGDNX8JAxCOcJHIZ7mM_B6OCg_dlgzlg9IeQkK8VQR8nsKKFADhnUJXDwOiFkW7vWbnTzxTkId3mznmtbcMoZEY8mV_7s-OIzpesp2jULR0kJY5MWephBXQTSkIlKzIvuh2Ex6nplwqibAyyA7o7KX3FZLMFw449c4hoanQ2Az6br8lHJmlycgLo_MoDzU8MhMPnz1oCkk5iQIX73-GBg01b8VxCIsRraE5XPEarkyo450k9Qm0sNpcoGiL8PZSJN9E4MnuE1wdHi_b5PAisbj3g41wks-1mTVh3aXTJ6-4gBJU2sC5vB87n6zvCI5onzRDmfPE9Tf0PAXToUAtbwczF6ejfyVximL2CfX6EPyOD3DmOdCmcnCnOkaHrFOPvO_ZxLOFd1oOQ2h2e2CPMCrxrrvLIm4UODKFgYu6KR26Zh85q72VEo2--5LIJPIavOpopT6uZcy1BvDMY-0HnONhmPrn-fbmHbRQMlbbdmrspkikaDNhptLMw22vmXKt2niABKglldS13ZXN0LTIwoQI.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon(English).mx" tvg-name="LAT: Nickelodeon | Mexico" tvg-logo="http://xtream-coders.com/x0/kids/nickelodeon.png" group-title="Kids", NICK COL
+http://gratis.shortgod.com/listagratishortgod/tv4.php?c=a0jt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Kids", NICK
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/teen9300/live
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Nick_2_Latinoamerica.png" group-title="Kids" , NICK 2
