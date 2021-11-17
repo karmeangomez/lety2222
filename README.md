@@ -3,8 +3,6 @@
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA CANALES★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg", CAP3 | CHUCKY LA SERIE
-https://908415937.tapecontent.net/radosgw/Vobx38LegYfKRV0/eq6x2WZUDKoGcQLHcY07vHGIlV__Yk599N6Sg1RbB55qh0MfTZhAThg81iWOlEgcgNT2fBABNNtDw8ARus2ZZCqWHJRamNdzGnkOzpoog2rU1i5Ze-F9-8GaSLC9Twqh3U2gfEvYzR-H1wGjl6mOQD0soYEmgLg8KkbnwN-onEPis9WYI8qqiCcYN7N_Aqud6oMf0t9KoxBf3cELowFKVbiThUArPf5yV7RHRCUArRc88WogmstzTdgVDHbb_xAq1MFVv4DhNaaa4tGWfa9tCEkdKum1Am01kzcBnA/1XKNZlLWaD9.mp4?stream=1
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS | STAR GO!
