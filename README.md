@@ -11,8 +11,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", USA | TELEMUNDO
-https://video-weaver.sea01.hls.ttvnw.net/v1/playlist/CqEETQBDfApQnhwDZk5YMNeIApjatJjRojL1F00NfIeR3ZCrmXwDej1P8UBAM2pSjoFSer4I7qSa9qYKnrE8DrESKONbfoUT456NVqbSxpBJ2g0g0XDw6EXK0yHw0Ag_hj3XFGNCGyjHxq5HFrAQCSr8GbtPG0IVrktDBHA6WRliB6coe1yyUvJAKdqFZg28C0leIuDmDAtmNHgHvUmdWQ08E4WRaRv7_AN_FXQcQSS84yiLciX-m29GYvwm3OAWd2G_EdEGXswbl4WRFpOYoWgPjFKDB41nlNi4BzX8AI1p0gCHz2vVcexdiA3lWB2gMyhvI8uwi7rFsvNkGL4LLcbUpxAnPt7j3wPW9PEOU0fI-6XIpnAnFq0BeyNmdE716Ezc_gaInhiRsldmBO0LtxwtgoODrdWlgYrjZntqVTE3okXsrsgBHtrYND4wA0N2R0qEYFv7eBU3Z2wILBc3kW76NZG0tWWPGrIpn5JeYJTfHnFvA1WvSJObnO3nYX9CZrbJx642fvFCdplZvIq5UuClzU6feFKV8SkGrO_Wa71BTet2GEwCplgOInTddCbujX7y0jNXhldk1ddMF3IWd81KTKSNYDWhlfn1nGRld53Weg8kTZ2gKga_D0DeZJkWT6TqHC6Kft959AFn2_ela_LVBY3frRqXmdCe3QhS_EKvwcLlcp6MO5Vkl3gFb0ucSxlg_C3CwC9vzi8Tlauw8m7K1zwaDGr-7MkBN-ziio2KaSABKglldS13ZXN0LTIwqQI.m3u8
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg", 24H | LOS SIMPSONS
@@ -35,7 +33,7 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://bit.ly/3oz5H9w" group-title="Kids", LATINO KIDS
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3FoMq1a" group-title="Kids", ZONA ANIME
+#EXTINF:-1 tvg-logo="https://bit.ly/3wRQIuW" group-title="Kids", ZONA ANIME
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
