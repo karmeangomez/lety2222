@@ -770,10 +770,8 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Kids", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 75
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c264e8422eef9bc92c1fe5396f5481b60c9e5e30&st.uid=580427830891&st.mq=2&st.mvid=2249127299608&st.ip=187.162.101.45&st.dla=on&st.exp=1637203689723&st.hls=on&_prevCmd=movieLayer&tkn=642
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 76
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fb19d962ef07f8dd9bfe6fd92b752c4fe9f63984&st.uid=580427830891&st.mq=2&st.mvid=2249188706840&st.ip=187.162.101.45&st.dla=on&st.exp=1637203770073&st.hls=on&_prevCmd=movieLayer&tkn=2942
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 78
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=42140053d64a2d82739d7d648c9ec1a184bc56fe&st.uid=580427830891&st.mq=2&st.mvid=2249190214168&st.ip=187.162.101.45&st.dla=on&st.exp=1637294595196&st.hls=on&_prevCmd=movieLayer&tkn=3522
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 77
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4fe1db04ac824cd5e0693b316402b46d06b33782&st.uid=580427830891&st.mq=2&st.mvid=2249189427736&st.ip=187.162.101.45&st.dla=on&st.exp=1637203849566&st.hls=on&_prevCmd=movieLayer&tkn=912
 CANAL
