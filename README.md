@@ -27,7 +27,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",Toonizaki
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tooncast_logo.jpg" group-title="Kids", TOONCAST
+#EXTINF:-1 tvg-logo="https://bit.ly/3nn8fbx" group-title="Kids", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/magic_20211027/MAGIC.jpg" group-title="Kids", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
