@@ -3,12 +3,12 @@
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA CANALES★
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
-https://bit.ly/3HxDvfX
 #EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS | STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
+https://bit.ly/3HxDvfX
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg", LIM TV | ESTRENOS
@@ -778,3 +778,7 @@ CANAL
 https://bit.ly/3De65jK
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
+https://908415937.tapecontent.net/radosgw/Vobx38LegYfKRV0/HU3rOS_qbSbGdmeJTEKBV7J0Ul2MAef5Ds09dFaoNghJzC3UD_9pQI5ABPZLdFvEMA4BiUUEBq-RrW9KcfCobyw8BoG589r2ipfQfzXkKMp3bmMuBRmFZBl5KEr2_lnHkTK_9Agwe_efcQjEdpIarFI3bRR1AXzYubH-YSti90h2Ns5X-Gg1xNzWk5CFYQh6fHWGvqabiBxX21XREeZap8Chbbq_svMAzlVe52U-gq4dbQE3BBChtjf9r5TXQrxK6qa6QSUXTCir_8m0eRSzIvuVbD0LnCeokJN3qQ/1XKNZlLWaD9.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
+https://867320103.tapecontent.net/radosgw/z1rYKbKYz8HYmzM/2pX5aQXyAQJU4sEZWBz4neVVK6X7_FDpLIh3WtjjqIjcIIfJ7rQ1msJzsAUNhtGebeQEIQA_7CSu2ZmnNmqxVi9kYezmAcWNJYOo_qY4AQxBPhGUT9EdM9jrKGzVyYv4yNnMbYg3Yl6oX9tIqBCyhMAwBFKwoZw99y5feeU7z_1Kygv16TH0q97H5oumIB4n_v9UsGGIFooZhjuXwnmbvIl1u8oRRnNuuH_DZdGNCH7P_OqCnRhsbB6MIuTC1QzlobliYzYzKo9Ij36vSu3PvDslXGPfkN5dkT2UBA/805Wv7EJLxy.mp4?stream=1
