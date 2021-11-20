@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7", ★STARGO!★
+#EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7", STAR★GO!
 https://bit.ly/3DuRjWc
-#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", ★GUIA CANALES★
+#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", GUIA★CANALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES | STAR GO!
+#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES★STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS | STAR GO!
+#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
 https://bit.ly/3HxDvfX
