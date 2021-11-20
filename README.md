@@ -118,7 +118,7 @@ https://v-ca.mybtv.net/event/147/1280x720.m3u8?start_time=2021-05-16&end_time=20
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wGw3dn" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
-#EXTINF:-1 tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/11/azteca-america.jpg" group-title="CANALES PRINCIPALES" , AZTECA AMERICA
+#EXTINF:-1 tvg-logo="https://bit.ly/3x6MdwX" group-title="CANALES PRINCIPALES" , AZTECA AMERICA
 https://v-la.mybtv.net/event/107/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://www.mediamoves.com/wp-content/uploads/2020/06/Estrella-TV-1000.png" group-title="CANALES PRINCIPALES", ESTRELLA TV 
 https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
