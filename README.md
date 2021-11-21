@@ -798,6 +798,6 @@ https://ia601409.us.archive.org/12/items/chucky1x1/chucky1x1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP2
 https://ia601405.us.archive.org/13/items/chucky1x2/chucky1x2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
-https://ia601501.us.archive.org/5/items/chucky1x3/chucky1x3.mp4
+https://ia601507.us.archive.org/7/items/chucky1x3720p/chucky1x3720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
 https://ia601508.us.archive.org/8/items/chucky1x4/chucky1x4.mp4
