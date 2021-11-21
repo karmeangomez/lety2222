@@ -797,4 +797,4 @@ http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
 https://908415937.tapecontent.net/radosgw/Vobx38LegYfKRV0/dIExJj1ZrHyRsAF_LTK3WKZmc5nbQWnuW4f2soO5PD8yX9BYxAkOQUhQN1dlOOS932aU_O-MyhxQ4vbu6-YMmr_8ANo7DP744L9rf8P5zNm-o9ynw9R6o1PNs5npE0L0Mayg8hbyzeuUyM9XvaYxHFQEAiceUQmszRExGsdV90-fKEZKATkkFVZAVgQFIPqCzj_VlP5vqskJVHNwQp7tKzpSRVDzm43vseSwI54WIbZ8sAMWY_B9GPjUvxItMLthOeDk-NBkoOQSy6BSlCq2AHKDsMZa09SFaRiEGw/1XKNZlLWaD9.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
-https://867320103.tapecontent.net/radosgw/z1rYKbKYz8HYmzM/LtxXiAWF5jX1X0cHjH1-hxnmTcpNZhb-OYrkD3CwHMycX9l8QTBg4I1M1n_jssdeCva5_--_UtutF2oERUCuwnwNTM2yFsJnewp3AtPmnxNGkdRpniG1WUaOfOIc4k8vCCau928t8oKqn9YCGF0vhjq2bL7FdCdLnemP_Gjw3XLXsm8-s8GV6h716FrEK-VaqqLw7cK-N2pQGx_zGjss2QkZsv1GCi9pympnOyKwFzPIM08WnIhU-eF3Cj-5z0l3lrABSP2B2nmd-4zRSocKM8O8wSgn_Pcigd9jCg/805Wv7EJLxy.mp4
+https://ia601508.us.archive.org/8/items/chucky1x4/chucky1x4.mp4
