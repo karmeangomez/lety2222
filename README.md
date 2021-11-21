@@ -88,11 +88,11 @@ https://bit.ly/3qB85iD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
 #EXTINF:0 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/63/af/8e/63af8e8c-4e1d-f3d3-8d6f-1ee888c26b41/source/512x512bb.jpg", TELEMUNDO | USA
 https://v-ca.mybtv.net/event/140/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://bit.ly/32nJCU5" group-title="CANALES PRINCIPALES" , AZTECA UNO HD 
+#EXTINF:-1 tvg-logo="https://bit.ly/30IxTPs" group-title="CANALES PRINCIPALES" , AZTECA UNO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=7&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/32nJCU5" group-title="CANALES PRINCIPALES" , AZTECA UNO
+#EXTINF:-1 tvg-logo="https://bit.ly/30IxTPs" group-title="CANALES PRINCIPALES" , AZTECA UNO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=27&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/32nJCU5" group-title="CANALES PRINCIPALES" , -2H | AZTECA UNO
+#EXTINF:-1 tvg-logo="https://bit.ly/30IxTPs" group-title="CANALES PRINCIPALES" , -2H | AZTECA UNO
 https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://bit.ly/3kH3nfu" group-title="CANALES PRINCIPALES", A+ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8
@@ -102,7 +102,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=17&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png" group-title="CANALES PRINCIPALES", UNIVISION | USA
 https://v-ca.mybtv.net/event/163/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/5/items/d-8-c-514-a-1-098-b-446-b-8489-345-b-170-ff-435/D8C514A1-098B-446B-8489-345B170FF435.gif" group-title="CANALES PRINCIPALES" , UNIMAS | USA
+#EXTINF:-1 tvg-logo="https://bit.ly/3CDfz6U" group-title="CANALES PRINCIPALES" , UNIMAS | USA
 https://v-ca.mybtv.net/event/147/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="CANALES PRINCIPALES" , CANAL 5 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1785&format=HLSAD&f=.m3u8
@@ -795,6 +795,6 @@ https://bit.ly/3De65jK
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
-https://908415937.tapecontent.net/radosgw/Vobx38LegYfKRV0/dIExJj1ZrHyRsAF_LTK3WKZmc5nbQWnuW4f2soO5PD8yX9BYxAkOQUhQN1dlOOS932aU_O-MyhxQ4vbu6-YMmr_8ANo7DP744L9rf8P5zNm-o9ynw9R6o1PNs5npE0L0Mayg8hbyzeuUyM9XvaYxHFQEAiceUQmszRExGsdV90-fKEZKATkkFVZAVgQFIPqCzj_VlP5vqskJVHNwQp7tKzpSRVDzm43vseSwI54WIbZ8sAMWY_B9GPjUvxItMLthOeDk-NBkoOQSy6BSlCq2AHKDsMZa09SFaRiEGw/1XKNZlLWaD9.mp4
+https://ia601501.us.archive.org/5/items/chucky1x3/chucky1x3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
 https://ia601508.us.archive.org/8/items/chucky1x4/chucky1x4.mp4
