@@ -102,7 +102,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=17&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png" group-title="CANALES PRINCIPALES", UNIVISION | USA
 https://v-ca.mybtv.net/event/163/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://bit.ly/3CDw2s3" group-title="CANALES PRINCIPALES" , UNIMAS | USA
+#EXTINF:-1 tvg-logo="https://ia601500.us.archive.org/5/items/d-8-c-514-a-1-098-b-446-b-8489-345-b-170-ff-435/D8C514A1-098B-446B-8489-345B170FF435.gif" group-title="CANALES PRINCIPALES" , UNIMAS | USA
 https://v-ca.mybtv.net/event/147/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="CANALES PRINCIPALES" , CANAL 5 HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1785&format=HLSAD&f=.m3u8
