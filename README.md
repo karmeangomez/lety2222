@@ -794,10 +794,10 @@ https://bit.ly/3De65jK
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP1
-https://ia601409.us.archive.org/12/items/chucky1x1/chucky1x1.mp4
+https://s1.zplayer.live/hls/5fxc6kchwonufvsa6loe7t6uvbgdklzfj5o3e5mqo7ihtbmk4hrmjrhrqxvq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP2
 https://ia601405.us.archive.org/13/items/chucky1x2/chucky1x2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
 https://ia601507.us.archive.org/7/items/chucky1x3720p/chucky1x3720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
-https://ia601508.us.archive.org/8/items/chucky1x4/chucky1x4.mp4
+https://ia601503.us.archive.org/31/items/chucky1x4720p/chucky1x4720p.mp4
