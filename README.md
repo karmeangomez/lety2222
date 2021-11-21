@@ -96,9 +96,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://v-sd.mybtv.net/event/760/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://bit.ly/3kH3nfu" group-title="CANALES PRINCIPALES", A+ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2316&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3p3in91" group-title="CANALES PRINCIPALES", LAS ESTRELLAS HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3cw7Q07" group-title="CANALES PRINCIPALES", LAS ESTRELLAS HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1784&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3p3in91" group-title="CANALES PRINCIPALES" , LAS ESTRELLAS 
+#EXTINF:-1 tvg-logo="https://bit.ly/3cw7Q07" group-title="CANALES PRINCIPALES" , LAS ESTRELLAS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=17&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="Univision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/univision.png" group-title="CANALES PRINCIPALES", UNIVISION | USA
 https://v-ca.mybtv.net/event/163/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
