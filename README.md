@@ -158,8 +158,7 @@ https://v-la.mybtv.net/event/107/1280x720.m3u8?start_time=2021-05-16&end_time=20
 https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="CANALES PRINCIPALES", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="CANALES PRINCIPALES", CARACOL
+#EXTINF:-1 tvg-logo="https://bit.ly/3oKuSGc" group-title="CANALES PRINCIPALES", CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3nCDTBM" group-title="CANALES PRINCIPALES", TELEMUNDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLSAD&f=.m3u8
@@ -576,13 +575,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=188&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", BLOOMBERG 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=190&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", BBC 
+#EXTINF:-1 tvg-logo="https://bit.ly/30Lp1rN" group-title="CANALES NOTICIAS", BBC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=191&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", AL JAAZERA 
+#EXTINF:-1 tvg-logo="https://bit.ly/3r8yIvo" group-title="CANALES NOTICIAS", AL JAAZERA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=192&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", NTN 24
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=194&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", JUSTICIA TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3CTwgvn" group-title="CANALES NOTICIAS", JUSTICIA TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=196&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", HLN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=197&format=HLSAD&f=.m3u8
@@ -590,11 +589,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=203&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", RT
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=999&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", MILENIO HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3FDgDJZ" group-title="CANALES NOTICIAS", MILENIO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1250&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", EXCELSIOR TV
+#EXTINF:-1 tvg-logo="https://bit.ly/30QSlgr" group-title="CANALES NOTICIAS", EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1449&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", EL FINANCIERO HD 
+#EXTINF:-1 tvg-logo="https://bit.ly/3FDgDJZ" group-title="CANALES NOTICIAS", EL FINANCIERO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1649&format=HLSAD&f=.m3u8
  #EXTINF:-1 group-title="CANALES NOTICIAS", RT ESPAÑOL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2091&format=HLSAD&f=.m3u8
