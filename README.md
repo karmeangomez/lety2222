@@ -398,10 +398,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=132&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", I SAT  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=135&format=HLSAD&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://bit.ly/3DAaAp3
-" group-title="CANALES PELICULAS", EUROPA CHANNEL 
+#EXTINF:-1 tvg-logo="https://bit.ly/3DAaAp3" group-title="CANALES PELICULAS", EUROPA CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=136&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", FILMS & ARTS
+#EXTINF:-1 tvg-logo="https://bit.ly/3CFsaGI" group-title="CANALES PELICULAS", FILMS & ARTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=137&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", FXM HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=138&format=HLSAD&f=.m3u8
