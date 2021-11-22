@@ -492,7 +492,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=91&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", NAT GEO WILD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=92&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", DISCOVERY THEATER
+#EXTINF:-1 tvg-logo="https://bit.ly/3l0kXer" group-title="CANALES CULTURALES", DISCOVERY THEATER
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=95&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", TLC
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=97&format=HLSAD&f=.m3u8
@@ -504,11 +504,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=101&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", TVE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=198&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", SHOPPING
+#EXTINF:-1 tvg-logo="https://bit.ly/3kZKZP8" group-title="CANALES CULTURALES", SHOPPING
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1943&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", FOOD NETWORK 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2145&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", STAR TVE 
+#EXTINF:-1 tvg-logo="https://bit.ly/3CAq1fG" group-title="CANALES CULTURALES", STAR TVE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2375&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", DISCOVERY TURBO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2379&format=HLSAD&f=.m3u8
@@ -535,7 +535,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=212&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="Planetatv Music" tvg-logo="https://www.m3u.cl/logo/1014_Planetatv_Music.png", PLANETA MUSIC
 https://5eae379fb77bb.streamlock.net:443/planetatvmusic/planetatvmusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES MUSICA", TELEHIT URBANO 
+#EXTINF:-1 tvg-logo="https://bit.ly/3qWoFtu" group-title="CANALES MUSICA", TELEHIT URBANO 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=218&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES MUSICA", TELEHIT +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=220&format=HLSAD&f=.m3u8
@@ -543,7 +543,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?TVFLIXHD
 #EXTINF:-1 group-title="CANALES MUSICA", BANDAMAX 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=221&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES MUSICA", MTV LIVE
+#EXTINF:-1 tvg-logo="https://bit.ly/2ZhrTfO" group-title="CANALES MUSICA", MTV LIVE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=211&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES MUSICA", MTV HITS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdv=N&session=rbnguvrzud60mi5&lchId=213&format=HLSAD&faptive?=.m3u8
@@ -564,11 +564,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de70
 
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", FOROTV 
+#EXTINF:-1 tvg-logo="https://bit.ly/3CIHmD0" group-title="CANALES NOTICIAS", FOROTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=19&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", ADN40
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=40&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES NOTICIAS", CNN Ñ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3l1bHqG" group-title="CANALES NOTICIAS", CNN Ñ 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=187&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", WOBI 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=102&format=HLSAD&f=.m3u8
