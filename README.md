@@ -406,11 +406,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=138&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", FXM 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=332&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", STAR SERIES
+#EXTINF:-1 tvg-logo="https://bit.ly/3DGV62p" group-title="CANALES PELICULAS", STAR SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=139&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", MORBIDO
+#EXTINF:-1 tvg-logo="https://bit.ly/3cCaJN2" group-title="CANALES PELICULAS", MORBIDO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=140&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", STAR HITS
+#EXTINF:-1 tvg-logo="https://bit.ly/3DGV62p" group-title="CANALES PELICULAS", STAR HITS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=146&format=HLSAD&f=.m3u8  
 #EXTINF:-1 group-title="CANALES PELICULAS", CINECANAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=149&format=HLSAD&f=.m3u8
@@ -422,13 +422,13 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=335&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", DE PELICULA +
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=121&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", STAR ACTION
+#EXTINF:-1 tvg-logo="https://bit.ly/3DGV62p" group-title="CANALES PELICULAS", STAR ACTION
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=336&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", PARAMOUNT CHANNEL 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1726&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", STAR CINEMA 
+#EXTINF:-1 tvg-logo="https://bit.ly/3DGV62p" group-title="CANALES PELICULAS", STAR CINEMA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1729&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="CANALES PELICULAS", STAR CLASSICS 
+#EXTINF:-1 tvg-logo="https://bit.ly/3DGV62p" group-title="CANALES PELICULAS", STAR CLASSICS 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1732&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", AZ CINEMA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
@@ -476,7 +476,7 @@ https://v2.tustreaming.cl/culturaonline/index.m3u8?PlaylistM3UCL
 https://v1.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="CANALES CULTURALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES",  DISCOVERY H&H
+#EXTINF:-1 tvg-logo="https://bit.ly/3CFUby7", "CANALES CULTURALES",  DISCOVERY H&H
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=96&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES CULTURALES" group-title="CANALES CULTURALES", DISCOVERY ID
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2376&format=HLSAD&f=.m3u8
