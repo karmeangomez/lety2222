@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7", STAR★GO!
 https://bit.ly/3DuRjWc
-#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", GUIA?CANALES
+#EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK", GUIA★CANALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES?STAR GO!
+#EXTINF:-1 tvg-id="1016" tvg-name="Planetatv Movie" tvg-logo="https://bit.ly/3CfCBRc" group-title="Kids", MOVIES★STAR GO!
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS?STAR GO!
+#EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
 https://bit.ly/3HxDvfX
@@ -28,7 +28,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Familiares",JUNTOS HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3nn8fbx" group-title="Kids", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://ia601506.us.archive.org/33/items/magic_20211027/MAGIC.jpg" group-title="Kids", MAGIC KIDS
@@ -82,7 +82,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 #EXTINF:-1 tvg-id="5ff608e60e2996000768c366" tvg-chno="188" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Kids",Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ?CANALES PRINCIPALES?
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , CANALES★PRINCIPALES
 https://bit.ly/3qB85iD
 #EXTINF:-1 tvg-logo="http://www.culturaencadena.com/images/stories/penultimo2015/a3series.jpg" group-title="CANALES PRINCIPALES", A3SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
@@ -116,6 +116,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=317&format=HLSAD&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CANALES PRINCIPALES", AZTECA 7 FHD
 https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://bit.ly/3oPb58t" group-title="CANALES PRINCIPALES", GALAVISION | USA
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2351.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3kY3aEG" group-title="CANALES PRINCIPALES", TL NOVELAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=83&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-chno="933" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="CANALES PRINCIPALES",Telemundo telenovelas clásicas
@@ -201,7 +203,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://bit.ly/3nFJTJS" group-title="CANALES PRINCIPALES", MEXIQUENSE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , ?CANALES KIDS?
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , CANALES★KIDS
 https://ia601508.us.archive.org/7/items/nickelodeon-latinoamerica-promo-el-show-de-patricio-estrella-2021/Nickelodeon%20Latinoamerica%20-%20Promo%20El%20Show%20De%20Patricio%20Estrella%202021.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3x6iYu7" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
@@ -316,7 +318,7 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="770" tvg-name="ZPTV" tvg-logo="https://www.m3u.cl/logo/770_ZPTV.png", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", ?CANALES ENTRETENIMIENTO?
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★ENTRETENIMIENTO
 https://archive.org/serve/star-channel-graficas-2021/STAR%20Channel%20-%20Gr%C3%A1ficas%202021.mp4
 #EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png", Cine Club 
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
@@ -374,7 +376,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★PELICULAS
+https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="CANALES PELICULAS", GOLDEN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=123&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", GOLDEN +
@@ -468,7 +471,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CANALES PELICULAS",Pluto TV Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★CULTURALES
+https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="798" tvg-name="Cultura Online" tvg-logo="https://www.m3u.cl/logo/798_Cultura_Online.png", Cultura Online 
 https://v2.tustreaming.cl/culturaonline/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="999" tvg-name="38TV" tvg-logo="https://www.m3u.cl/logo/999_38TV.png", 38TV 
@@ -560,8 +564,9 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8?TVFLIXHD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★NOTICIAS
+https://bit.ly/3DuRjWc
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3CIHmD0" group-title="CANALES NOTICIAS", FOROTV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=19&format=HLSAD&f=.m3u8
@@ -593,13 +598,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1250&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/30QSlgr" group-title="CANALES NOTICIAS", EXCELSIOR TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1449&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3FDgDJZ" group-title="CANALES NOTICIAS", EL FINANCIERO HD 
+#EXTINF:-1 tvg-logo="https://bit.ly/3nFEfrb" group-title="CANALES NOTICIAS", EL FINANCIERO HD 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1649&format=HLSAD&f=.m3u8
  #EXTINF:-1 group-title="CANALES NOTICIAS", RT ESPAÑOL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2091&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES NOTICIAS", FRANCE 24
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2402&format=HLSAD&f=.m3u8
 
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★DEPORTES
+https://bit.ly/3DuRjWc
 #EXTINF:-1 group-title="CANALES DEPORTES", ESPN EXTRA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=167&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES DEPORTES", ESPN 
