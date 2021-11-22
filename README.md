@@ -335,25 +335,25 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=201&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6s6MMGzdiRc/Usdhh5GxUDI/AAAAAAAADkY/55iEN2tncic/s1600/distrito+comedia+m%C3%A9xico+sivergameTV.png" group-title="CANALES ENTRETENIMIENTO", DISTRITO COMEDIA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=78&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/30HdTfA" group-title="CANALES ENTRETENIMIENTO", COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://bit.ly/3oSQMat" group-title="CANALES ENTRETENIMIENTO", COMEDY CENTRAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=340&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3qYFl3q" group-title="CANALES ENTRETENIMIENTO", SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=48&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png" group-title="CANALES ENTRETENIMIENTO", WARNER  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=52&format=HLSAD&f=.m3u8 
-#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png" group-title="CANALES ENTRETENIMIENTO", E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://bit.ly/3nDXykY" group-title="CANALES ENTRETENIMIENTO", E!
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=55&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="CANALES ENTRETENIMIENTO", UNIVERSAL
+#EXTINF:-1 tvg-logo="https://bit.ly/3FCDIg4" group-title="CANALES ENTRETENIMIENTO", UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=57&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/090707syfy_logo1.jpg.300x300_q85.jpg" group-title="CANALES ENTRETENIMIENTO", SYFY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=59&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" group-title="CANALES ENTRETENIMIENTO", FX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=60&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vercanalestv.live/wp-content/uploads/2020/11/AE.jpg" group-title="CANALES ENTRETENIMIENTO", A&E
+#EXTINF:-1 tvg-logo="https://bit.ly/3qXzJ9z" group-title="CANALES ENTRETENIMIENTO", A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=62&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" group-title="CANALES ENTRETENIMIENTO", AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=64&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png" group-title="CANALES ENTRETENIMIENTO", SUNDANCE TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3HTnTUj" group-title="CANALES ENTRETENIMIENTO", SUNDANCE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=69&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="CANALES ENTRETENIMIENTO", TNT SERIES
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=71&format=HLSAD&f=.m3u8
