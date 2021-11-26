@@ -793,7 +793,7 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 87
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0f73c8b44bb78956b7588f76b7f66f7f3b51c903&st.uid=580427830891&st.mq=2&st.mvid=2249518156312&st.ip=187.135.199.117&st.dla=on&st.exp=1638067581023&st.hls=on&_prevCmd=movieMain&tkn=5511
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7def4e8ab391e8007de6f86f8c976951d8b0c013&st.uid=580427830891&st.mq=2&st.mvid=2249518352920&st.ip=187.135.199.117&st.dla=on&st.exp=1638068525991&st.hls=on&_prevCmd=movieMain&tkn=4731
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 88
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2284ee424505027043a328faf2d92bd4420f3ef4&st.uid=580427830891&st.mq=2&st.mvid=2249518352920&st.ip=187.135.199.117&st.dla=on&st.exp=1638067642405&st.hls=on&_prevCmd=movieMain&tkn=6319
 CANAL
