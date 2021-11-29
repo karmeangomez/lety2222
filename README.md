@@ -8,7 +8,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://bit.ly/3rec84R
-#EXTINF:-1 tvg-logo="https://bit.ly/3HxDvfX" group-title="Kids", TOONIZAKI★STAR GO!
+#EXTINF:-1 tvg-logo="https://bit.ly/3o39ZXq" group-title="Kids", TOONIZAKI★STAR GO!
 http://4eq.ir/toonlive
 #EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS | ESTRENOS
