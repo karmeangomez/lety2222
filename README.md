@@ -7,8 +7,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+https://bit.ly/3rec84R
+#EXTINF:-1 tvg-logo="https://bit.ly/3HxDvfX" group-title="Kids", TOONIZAKI★STAR GO!
+http://4eq.ir/toonlive
 #EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
-https://bit.ly/3HxDvfX
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg", LIM TV | ESTRENOS
@@ -811,3 +813,4 @@ https://ia601507.us.archive.org/7/items/chucky1x3720p/chucky1x3720p.mp4
 https://ia601503.us.archive.org/31/items/chucky1x4720p/chucky1x4720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP5
 https://wph2crseq8my8tyosrso.larecontent.com/-dU5ocSljhLpgjGnsXSv2Q/1637826629/slk35zkiIdHfLcUXOMYDONitLA-FNqY4-qXOWWlmAa19TT0Y_OGDkEtBmqIoESaDPttx41Hr8YYWhPf0R-vKeblTY-aMblISxzzAm-dWC3ALmEAO4fGaWUsvN3osGagGW8mhTF5Ls0mXbuhOzgw9enGFPZ9gTOMfuzgTc2cmragraMCqj_nXJ8RV4geT89tr/b3346bf2-c39c-42df-83bf-cdfed8cb4b38-ac5467c7-0859-4f27-bf80-80039f63ce8f.mp4
+
