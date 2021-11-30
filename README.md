@@ -33,7 +33,7 @@ http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3nn8fbx" group-title="Kids", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3xoevTs" group-title="Kids", MAGIC KIDS
+#EXTINF:-1 tvg-logo="https://bit.ly/3I5M2H3" group-title="Kids", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
@@ -792,12 +792,11 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Kids", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 90
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a73b504cb97cd282b567304cebf413f833d8cf2a&st.uid=580427830891&st.mq=2&st.mvid=2250492742168&st.ip=189.129.24.66&st.dla=off&st.exp=1638326653834&st.hls=on&_prevCmd=movieLayer&tkn=3247
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 91
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=deac5c31062d460972b2a83f92a801b357bf82fa&st.uid=580427830891&st.mq=2&st.mvid=2260621855256&st.ip=189.129.24.66&st.dla=off&st.exp=1638326773812&st.hls=on&_prevCmd=movieLayer&tkn=9875
-CANAL
-https://bit.ly/3De65jK
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 92
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=e5a4bfc531b6b548502bab9e39c0428f88bfe9cb&st.uid=580427830891&st.mq=2&st.mvid=2260621986328&st.ip=187.135.132.120&st.dla=off&st.exp=1638486619446&st.hls=on&_prevCmd=movieLayer&tkn=7383
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 93
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a0410c059eb914c8d3d4643367ddb053fcf1cba7&st.uid=580427830891&st.mq=2&st.mvid=2260622510616&st.ip=187.135.132.120&st.dla=off&st.exp=1638486691961&st.hls=on&_prevCmd=movieLayer&tkn=2254
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP1
