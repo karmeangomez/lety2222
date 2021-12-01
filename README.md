@@ -7,15 +7,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-https://bit.ly/3rec84R
-#EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw", CARTOONITO
-#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png", CINEPOLIS | ESTRENOS
+#EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png"  group-title="Kids", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg", LIM TV | ESTRENOS
+#EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg"  group-title="Kids", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN", ORBIT | ESTRENOS
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE 
+#EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
@@ -27,7 +25,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://bit.ly/3Cu8HJj" group-title="Kids", MANE BABY
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="CANALES PRINCIPALES",JUNTOS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="Kids",JUNTOS HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
@@ -225,7 +223,7 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/t
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://bit.ly/3oJJqpD" group-title="Kids" , DISNEY XD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://bit.ly/3kZQVYt" group-title="Kids", BOOMERANG
+#EXTINF:-1 tvg-logo="https://bit.ly/30GzPaw" group-title="Kids", CARTOONITO
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=115&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://bit.ly/3oS0xFC" group-title="Kids" , BABY TV 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=116&format=HLSAD&f=.m3u8 
