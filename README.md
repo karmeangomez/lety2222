@@ -13,6 +13,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids",JETIX - ESTRENO
+http://4eq.ir/jetix
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids", 24H | EL CHAVO
@@ -39,8 +41,6 @@ https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3xlJeRj" group-title="Kids", ANIME ZONE
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
-https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Kids", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg" group-title="Kids", ENERGEEK KIDS
@@ -781,14 +781,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d3
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Spain",Pluto TV Action Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://i.imgur.com/D9wFBkQ.png" group-title="Kids",JETIX
-https://video.wixstatic.com/video/acb6c8_f3423c5db8c447748abe9022fad24b67/480p/mp4/file.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3pKicRC", GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1001" tvg-name="La Granja TV" tvg-logo="https://www.m3u.cl/logo/1001_La_Granja_TV.png", La Granja 
 https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="Kids", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 94
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6f33e2f825e06e7b2de187cea3ba614dab7f1d86&st.uid=580427830891&st.mq=2&st.mvid=2260623755800&st.ip=187.135.132.120&st.dla=off&st.exp=1638574761359&st.hls=on&_prevCmd=movieLayer&tkn=2201
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" , REBELDE 95
