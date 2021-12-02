@@ -797,9 +797,9 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H" REBELDE 94
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 94
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6f33e2f825e06e7b2de187cea3ba614dab7f1d86&st.uid=580427830891&st.mq=2&st.mvid=2260623755800&st.ip=187.135.132.120&st.dla=off&st.exp=1638574761359&st.hls=on&_prevCmd=movieLayer&tkn=2201
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H" REBELDE 95
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 95
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=59f9279c4f102e35c5a2549d8c8e928b0a838e68&st.uid=580427830891&st.mq=2&st.mvid=2260626180632&st.ip=187.135.132.120&st.dla=off&st.exp=1638574817776&st.hls=on&_prevCmd=movieLayer&tkn=9949
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
