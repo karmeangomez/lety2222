@@ -13,6 +13,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://bit.ly/3Eqbyo8" group-title="Kids", Loading.
+https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids", JETIX - ESTRENO
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
@@ -21,7 +23,7 @@ http://4eq.ir/toonlive
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
 #EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
+#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
 #EXTINF:-1 tvg-logo="https://bit.ly/3Ifk3ol" group-title="24H", 24H | CASO CERRADO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
