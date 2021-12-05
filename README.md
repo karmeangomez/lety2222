@@ -802,11 +802,13 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 98
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cc7eee8805e1af9a0a041a533b69d90e5eb25631&st.mq=2&st.mvid=2260631751192&st.ip=187.135.132.120&st.dla=on&st.exp=1638753168456&st.hls=on&_prevCmd=movieLayer&tkn=8569
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 100
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c24a9bf4072c0bf422bfb2139529044a2b37905f&st.mq=3&st.mvid=2260697745944&st.ip=187.135.108.133&st.dla=on&st.exp=1638837300425&st.hls=on&_prevCmd=movieLayer&tkn=9465
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 101
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ab7bc168cf2e39f818accc2887a0e2c31b5d5404&st.mq=3&st.mvid=2260698532376&st.ip=187.135.108.133&st.dla=on&st.exp=1638837355980&st.hls=on&_prevCmd=movieLayer&tkn=9559
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 102
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bc150bd5e94ac34d2c3d871ea821d0c8f5dab7e9&st.mq=3&st.mvid=2260698925592&st.ip=187.135.108.133&st.dla=on&st.exp=1638837407059&st.hls=on&_prevCmd=movieLayer&tkn=3230
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 99
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a6afa7b88c9fd2d2b55e913d9ff1a0d376ce6f19&st.mq=3&st.mvid=2260631947800&st.ip=187.135.132.120&st.dla=on&st.exp=1638753228275&st.hls=on&_prevCmd=movieLayer&tkn=9763
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP1
