@@ -802,12 +802,11 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 100
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c24a9bf4072c0bf422bfb2139529044a2b37905f&st.mq=3&st.mvid=2260697745944&st.ip=187.135.108.133&st.dla=on&st.exp=1638837300425&st.hls=on&_prevCmd=movieLayer&tkn=9465
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 101
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ab7bc168cf2e39f818accc2887a0e2c31b5d5404&st.mq=3&st.mvid=2260698532376&st.ip=187.135.108.133&st.dla=on&st.exp=1638837355980&st.hls=on&_prevCmd=movieLayer&tkn=9559
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 102
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bc150bd5e94ac34d2c3d871ea821d0c8f5dab7e9&st.mq=3&st.mvid=2260698925592&st.ip=187.135.108.133&st.dla=on&st.exp=1638837407059&st.hls=on&_prevCmd=movieLayer&tkn=3230
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 103
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7cb84e5e0ec0a5f87f1ed63b62013d38d7698f7e&st.uid=580427830891&st.mq=2&st.mvid=2260699712024&st.ip=187.135.108.133&st.dla=on&st.exp=1639008688835&st.hls=on&_prevCmd=movieMain&tkn=5895
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 104
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6bb3a4a11a3fca23648cb5bc280528f146cf3c63&st.uid=580427830891&st.mq=2&st.mvid=2260700301848&st.ip=187.135.108.133&st.dla=on&st.exp=1639008808312&st.hls=on&_prevCmd=movieMain&tkn=2697
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
