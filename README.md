@@ -7,18 +7,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png"  group-title="Kids", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg"  group-title="Kids", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3Eqbyo8" group-title="Kids", Loading.
-https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
-#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids", JETIX - ESTRENO
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
-#EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
-http://4eq.ir/toonlive
 #EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
 #EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
@@ -807,6 +803,38 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7cb84e5e0ec0a5
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 104
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6bb3a4a11a3fca23648cb5bc280528f146cf3c63&st.uid=580427830891&st.mq=2&st.mvid=2260700301848&st.ip=187.135.108.133&st.dla=on&st.exp=1639008808312&st.hls=on&_prevCmd=movieMain&tkn=2697
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
+#EXTINF:-1 tvg-logo="https://bit.ly/3lIFvZg" group-title="24H", 24H | PANTERA ROSA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104206
+#EXTINF:-1 tvg-logo="https://bit.ly/3DuJyOY" group-title="24H", 24H | MR BEAN ANIMADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104207
+#EXTINF:-1 tvg-logo="https://bit.ly/3ExgSX2" group-title="24H", 24H | BOB ESPONJA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104209
+#EXTINF:-1 tvg-logo="https://bit.ly/3osavP9" group-title="24H", 24H | LOONEY TUNES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104210
+#EXTINF:-1 tvg-logo="https://bit.ly/3GhUYaI" group-title="24H", 24H | CHESPIRITO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6789
+#EXTINF:-1 tvg-logo="https://bit.ly/3InfTLk" group-title="24H", 24H | CABALLEROS DEL ZODIACO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6792
+#EXTINF:-1 tvg-logo="https://bit.ly/306cGyA" group-title="24H", 24H | EL CHAVO 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6795
+#EXTINF:-1 tvg-logo="https://bit.ly/3lIKBES" group-title="24H", 24H | BEN 10
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6797
+#EXTINF:-1 tvg-logo="https://bit.ly/3rEtYxV" group-title="24H", 24H | ED EDD Y EDDY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6801
+#EXTINF:-1 tvg-logo="https://bit.ly/31rpoZu" group-title="24H", 24H | FUTURAMA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6802
+#EXTINF:-1 tvg-logo="https://bit.ly/3y4JQLA" group-title="24H", 24H | ANIMANIACS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6804
+#EXTINF:-1 tvg-logo="https://bit.ly/31ClXyw" group-title="24H", 24H | THUNDERCATS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87518
+#EXTINF:-1 tvg-logo="https://bit.ly/3dtj1Hb" group-title="24H", 24H | PICAPIEDRAS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
@@ -820,3 +848,9 @@ https://ia601507.us.archive.org/7/items/chucky1x3720p/chucky1x3720p.mp4
 https://ia601503.us.archive.org/31/items/chucky1x4720p/chucky1x4720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP5
 https://wph2crseq8my8tyosrso.larecontent.com/-dU5ocSljhLpgjGnsXSv2Q/1637826629/slk35zkiIdHfLcUXOMYDONitLA-FNqY4-qXOWWlmAa19TT0Y_OGDkEtBmqIoESaDPttx41Hr8YYWhPf0R-vKeblTY-aMblISxzzAm-dWC3ALmEAO4fGaWUsvN3osGagGW8mhTF5Ls0mXbuhOzgw9enGFPZ9gTOMfuzgTc2cmragraMCqj_nXJ8RV4geT89tr/b3346bf2-c39c-42df-83bf-cdfed8cb4b38-ac5467c7-0859-4f27-bf80-80039f63ce8f.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3Eqbyo8" group-title="Kids", Loading.
+https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
+#EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids", JETIX - ESTRENO
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
+#EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
+http://4eq.ir/toonlive
