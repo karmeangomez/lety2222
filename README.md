@@ -798,10 +798,10 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 103
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7cb84e5e0ec0a5f87f1ed63b62013d38d7698f7e&st.uid=580427830891&st.mq=2&st.mvid=2260699712024&st.ip=187.135.108.133&st.dla=on&st.exp=1639008688835&st.hls=on&_prevCmd=movieMain&tkn=5895
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 104
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=6bb3a4a11a3fca23648cb5bc280528f146cf3c63&st.uid=580427830891&st.mq=2&st.mvid=2260700301848&st.ip=187.135.108.133&st.dla=on&st.exp=1639008808312&st.hls=on&_prevCmd=movieMain&tkn=2697
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 105
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=66dbd9df686b46ab90035f389e5394e94fd92de6&st.uid=580427830891&st.mq=2&st.mvid=2260700563992&st.ip=187.135.108.133&st.dla=on&st.exp=1639094091625&st.hls=on&_prevCmd=movieMain&tkn=8129
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 106
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=292b6f23304397e52632e2bc52b7ff91bbba74ed&st.uid=580427830891&st.mq=2&st.mvid=2260701022744&st.ip=187.135.108.133&st.dla=on&st.exp=1639094284597&st.hls=on&_prevCmd=movieMain&tkn=9186
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
@@ -834,14 +834,12 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
 
 #EXTINF:-1 tvg-id="EPG123.90209.XMLTV.CO" tvg-name="INFANTILES SD | NICK MUSIC" tvg-logo="https://static.epg.best/us/Nicktoons.us.png" group-title="Kids", NICK MUSIC
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/921
-#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK
+#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK HD
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6294
 #EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Kids | NICK 2 TEAM NICK" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="Kids", TEEN NICK
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6295
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Kids | NICK JR" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="Kids", NICK JR
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6296
-#EXTINF:-1 tvg-id="" tvg-name="Kids | NICKELODEON" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="Kids", NICK
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104197
 #EXTINF:-1 tvg-id="" tvg-name="Kids | BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids", BABY FIRST
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104196
 #EXTINF:-1 tvg-id="BOING" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Kids", BOING SD
