@@ -7,24 +7,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
+#EXTINF:-1 tvg-logo="https://bit.ly/31LO3HC" group-title="Kids", BOOMERANG CLASICO
+https://cdnvideo.webvideocore.net/enc4_lri7hgerk6h2b93v4i7eu357je4pjutr48kv5c8qd9abagtoio2s00s6eo7eastii5fra334i3l8u5njf7jduc2og6mvqqcb06o6m60qko8n4g83jif2hmoqet6la8kfc/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png"  group-title="Kids", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg"  group-title="Kids", LIM TV | ESTRENOS
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
-#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
-#EXTINF:-1 tvg-logo="https://bit.ly/3Ifk3ol" group-title="24H", 24H | CASO CERRADO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
-#EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | CHAPULIN ANIMADO
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100833
+
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg" group-title="24H", 24H | LOS SIMPSONS
@@ -798,11 +789,13 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 105
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=66dbd9df686b46ab90035f389e5394e94fd92de6&st.uid=580427830891&st.mq=2&st.mvid=2260700563992&st.ip=187.135.108.133&st.dla=on&st.exp=1639094091625&st.hls=on&_prevCmd=movieMain&tkn=8129
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 106
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=292b6f23304397e52632e2bc52b7ff91bbba74ed&st.uid=580427830891&st.mq=2&st.mvid=2260701022744&st.ip=187.135.108.133&st.dla=on&st.exp=1639094284597&st.hls=on&_prevCmd=movieMain&tkn=9186
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 107
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=59634854383e38ca1db9bf985f3f239610925cda&st.uid=580427830891&st.mq=2&st.mvid=2260701284888&st.ip=189.129.26.67&st.dla=on&st.exp=1639161297070&st.hls=on&_prevCmd=movieMain&tkn=43
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 108
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=87f4de6a581d44e9885894493bb185c66af05e41&st.uid=580427830891&st.mq=2&st.mvid=2260701940248&st.ip=189.129.26.67&st.dla=on&st.exp=1639161359220&st.hls=on&_prevCmd=movieMain&tkn=4083
 
+#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
 #EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
 #EXTINF:-1 tvg-logo="https://bit.ly/3lIFvZg" group-title="24H", 24H | PANTERA ROSA
@@ -831,6 +824,16 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6804
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87518
 #EXTINF:-1 tvg-logo="https://bit.ly/3dtj1Hb" group-title="24H", 24H | PICAPIEDRAS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
+#EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
+#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
+#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
+#EXTINF:-1 tvg-logo="https://bit.ly/3Ifk3ol" group-title="24H", 24H | CASO CERRADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
+#EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | CHAPULIN ANIMADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100833
 
 #EXTINF:-1 tvg-id="EPG123.90209.XMLTV.CO" tvg-name="INFANTILES SD | NICK MUSIC" tvg-logo="https://static.epg.best/us/Nicktoons.us.png" group-title="Kids", NICK MUSIC
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/921
