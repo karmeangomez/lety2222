@@ -866,16 +866,19 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6293
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP1
 https://s1.zplayer.live/hls/5fxc6kchwonufvsa6loe7t6uvbgdklzfj5o3e5mqo7ihtbmk4hrmjrhrqxvq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP2
 https://ia601405.us.archive.org/13/items/chucky1x2/chucky1x2.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP3
 https://ia601507.us.archive.org/7/items/chucky1x3720p/chucky1x3720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP4
 https://ia601503.us.archive.org/31/items/chucky1x4720p/chucky1x4720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" , CHUCKY CAP5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP5
 https://wph2crseq8my8tyosrso.larecontent.com/-dU5ocSljhLpgjGnsXSv2Q/1637826629/slk35zkiIdHfLcUXOMYDONitLA-FNqY4-qXOWWlmAa19TT0Y_OGDkEtBmqIoESaDPttx41Hr8YYWhPf0R-vKeblTY-aMblISxzzAm-dWC3ALmEAO4fGaWUsvN3osGagGW8mhTF5Ls0mXbuhOzgw9enGFPZ9gTOMfuzgTc2cmragraMCqj_nXJ8RV4geT89tr/b3346bf2-c39c-42df-83bf-cdfed8cb4b38-ac5467c7-0859-4f27-bf80-80039f63ce8f.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP6
+https://ia601500.us.archive.org/6/items/chucky-1x-6/Chucky1x6.mp4
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3Eqbyo8" group-title="Kids", Loading.
 https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
 #EXTINF:-1 tvg-id="Caricaturas" tvg-logo="https://bit.ly/3GagHRI" group-title="Kids", JETIX - ESTRENO
