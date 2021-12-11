@@ -815,3 +815,68 @@ https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
+#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
+#EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
+#EXTINF:-1 tvg-logo="https://bit.ly/3lIFvZg" group-title="24H", 24H | PANTERA ROSA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104206
+#EXTINF:-1 tvg-logo="https://bit.ly/3DuJyOY" group-title="24H", 24H | MR BEAN ANIMADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104207
+#EXTINF:-1 tvg-logo="https://bit.ly/3ExgSX2" group-title="24H", 24H | BOB ESPONJA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104209
+#EXTINF:-1 tvg-logo="https://bit.ly/3osavP9" group-title="24H", 24H | LOONEY TUNES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104210
+#EXTINF:-1 tvg-logo="https://bit.ly/3GhUYaI" group-title="24H", 24H | CHESPIRITO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6789
+#EXTINF:-1 tvg-logo="https://bit.ly/3InfTLk" group-title="24H", 24H | CABALLEROS DEL ZODIACO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6792
+#EXTINF:-1 tvg-logo="https://bit.ly/306cGyA" group-title="24H", 24H | EL CHAVO 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6795
+#EXTINF:-1 tvg-logo="https://bit.ly/3lIKBES" group-title="24H", 24H | BEN 10
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6797
+#EXTINF:-1 tvg-logo="https://bit.ly/3rEtYxV" group-title="24H", 24H | ED EDD Y EDDY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6801
+#EXTINF:-1 tvg-logo="https://bit.ly/31rpoZu" group-title="24H", 24H | FUTURAMA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6802
+#EXTINF:-1 tvg-logo="https://bit.ly/3y4JQLA" group-title="24H", 24H | ANIMANIACS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6804
+#EXTINF:-1 tvg-logo="https://bit.ly/31ClXyw" group-title="24H", 24H | THUNDERCATS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87518
+#EXTINF:-1 tvg-logo="https://bit.ly/3dtj1Hb" group-title="24H", 24H | PICAPIEDRAS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
+#EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
+#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
+#EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
+#EXTINF:-1 tvg-logo="https://bit.ly/3Ifk3ol" group-title="24H", 24H | CASO CERRADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
+#EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | CHAPULIN ANIMADO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100833
+
+#EXTINF:-1 tvg-id="EPG123.90209.XMLTV.CO" tvg-name="INFANTILES SD | NICK MUSIC" tvg-logo="https://static.epg.best/us/Nicktoons.us.png" group-title="Kids", NICK MUSIC
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/921
+#EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK HD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6294
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Kids | NICK 2 TEAM NICK" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="Kids", TEEN NICK
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6295
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Kids | NICK JR" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="Kids", NICK JR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6296
+#EXTINF:-1 tvg-id="" tvg-name="Kids | BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids", BABY FIRST
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104196
+#EXTINF:-1 tvg-id="BOING" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Kids", BOING SD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/66282
+#EXTINF:-1 tvg-id="CartoonNetwork.co" tvg-name="Kids | CARTOON NETWORK" tvg-logo="https://static.epg.best/mx/CartoonNetwork.mx.png" group-title="Kids", CARTOON NETWORK
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6288
+#EXTINF:-1 tvg-id="DiscoveryKids.co" tvg-name="Kids | DISCOVERY KIDS" tvg-logo="https://static.epg.best/mx/DiscoveryKids.mx.png" group-title="Kids", DISCOVERY KIDS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6289
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="Kids | DISNEY CHANNEL" tvg-logo="https://static.epg.best/mx/DisneyChannel.mx.png" group-title="Kids", DISNEY CHANNEL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6290
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Kids | DISNEY JUNIOR" tvg-logo="https://static.epg.best/mx/DisneyJunior.mx.png" group-title="Kids", DISNEY JUNIOR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6291
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Kids | DISNEY XD" tvg-logo="https://static.epg.best/mx/DisneyXD.mx.png" group-title="Kids", DISNEY XD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6292
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Kids | NATGEO KIDS" tvg-logo="https://static.epg.best/mx/NatGeoKids.mx.png" group-title="Kids", NATGEO KIDS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6293
