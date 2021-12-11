@@ -15,7 +15,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_tv_serie
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg" group-title="24H", 24H | LOS SIMPSONS
@@ -845,8 +846,6 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6804
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87518
 #EXTINF:-1 tvg-logo="https://bit.ly/3dtj1Hb" group-title="24H", 24H | PICAPIEDRAS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87523
-#EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
 #EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6790
 #EXTINF:-1 tvg-logo="https://bit.ly/3rzw1mW" group-title="24H", 24H | F. PELUCHE 2
