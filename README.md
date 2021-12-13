@@ -36,7 +36,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://bit.ly/3I5M2H3" group-title="Kids", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://bit.ly/3FQY8lI" group-title="Kids", LATINO KIDS
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3xlJeRj" group-title="Kids", ANIME ZONE
