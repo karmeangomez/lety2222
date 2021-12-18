@@ -37,7 +37,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3nn8fbx" group-title="Kids", TOONCAST
+#EXTINF:-1 tvg-logo="https://bit.ly/3paydjn" group-title="Kids", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3I5M2H3" group-title="Kids", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
@@ -209,22 +209,24 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-logo="https://bit.ly/3nFJTJS" group-title="CANALES PRINCIPALES", MEXIQUENSE TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=32&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" , CANALES★KIDS
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" group-title="Kids" , CANALES★KIDS
 https://ia601508.us.archive.org/7/items/nickelodeon-latinoamerica-promo-el-show-de-patricio-estrella-2021/Nickelodeon%20Latinoamerica%20-%20Promo%20El%20Show%20De%20Patricio%20Estrella%202021.mp4
-#EXTINF:-1 tvg-logo="https://bit.ly/3x6iYu7" , RADIO DISNEY MÉXICO
+#EXTINF:-1 tvg-logo="https://bit.ly/3x6iYu7" group-title="Kids" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
-#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/34/items/bit-me_202110/BitMe.jpg" , BITME  
+#EXTINF:-1 tvg-logo="https://ia601509.us.archive.org/34/items/bit-me_202110/BitMe.jpg" group-title="Kids" , BITME  
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2591&format=HLSAD&f=.m3u8
-#EXTINF:-1 group-title="Kids", TOONCAST
+#EXTINF:-1 tvg-logo="https://bit.ly/3paydjn" group-title="Kids", TOONCAST 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://ia601408.us.archive.org/21/items/1200px-boing.svg_202110/1200px-Boing.svg.jpg" , BOING | SPAIN
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3119
-#EXTINF:-1 tvg-logo="https://bit.ly/3oKklLb", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://bit.ly/3oKklLb" group-title="Kids", DISNEY CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" group-title="Kids", CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3nBaxUe" group-title="Kids", NICK
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/teen9300/live
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Kids | NICK 2 TEEN NICK" tvg-logo="https://bit.ly/3IUVc9X" group-title="Kids", TEEN NICK HD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6295
 #EXTINF:-1 tvg-logo="https://bit.ly/3IUVc9X" group-title="Kids" , TEENNICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://bit.ly/3oJJqpD" group-title="Kids" , DISNEY XD
@@ -940,8 +942,6 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88574
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK HD
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6294
-#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Kids | NICK 2 TEAM NICK" tvg-logo="https://bit.ly/3IUVc9X" group-title="Kids", TEEN NICK
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6295
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Kids | NICK JR" tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="Kids", NICK JR HD
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6296
 #EXTINF:-1 tvg-id="" tvg-name="Kids | BABY FIRST" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids", BABY FIRST HD
