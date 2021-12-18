@@ -925,7 +925,18 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6796
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104211
 #EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | CHAPULIN ANIMADO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100833
-
+#EXTINF:-1 tvg-id="" tvg-name="24H SERIES ACCION  | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="24H",24H SERIES ACCION  | MARVEL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87513
+#EXTINF:-1 tvg-id="" tvg-name="24H SERIES ACCION | BREAKING BAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="24H",24H SERIES ACCION | BREAKING BAD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87520
+#EXTINF:-1 tvg-id="" tvg-name="24H | EL FINAL DEL PARAISO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ElFinalDelPara%C3%ADsoLogo.png/245px-ElFinalDelPara%C3%ADsoLogo.png" group-title="24H",24H | EL FINAL DEL PARAISO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88571
+#EXTINF:-1 tvg-id="" tvg-name="24H | NARCO MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="24H",24H | NARCO MEXICO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88572
+#EXTINF:-1 tvg-id="" tvg-name="24H | NARCO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Narcos_season_1.png/250px-Narcos_season_1.png" group-title="24H",24H | NARCO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88573
+#EXTINF:-1 tvg-id="" tvg-name="24H | EL CHAPO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/El_Chapo_Netflix_poster.jpg" group-title="24H",24H | EL CHAPO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88574
 
 #EXTINF:-1 tvg-id="NickelodeonLatinAmereica.pa" tvg-name="Kids | NICK" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="Kids", NICK HD
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6294
