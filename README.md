@@ -7,6 +7,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3Hcn9sZ" group-title="Kids", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
 #EXTINF:-1 tvg-logo="https://bit.ly/30xDeJ6", group-title="24H", SPIDERMAN  NWH | STAR★GO!
 https://bit.ly/3yG5m9B
 #EXTINF:-1 tvg-logo="https://bit.ly/31LO3HC" group-title="Kids", BOOMERANG CLASICO
@@ -885,8 +887,8 @@ https://ia601504.us.archive.org/17/items/loading_20211203/loading.mp4
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/canaljetixla
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
-#EXTINF:-1 tvg-logo="https://bit.ly/31CqJfo" group-title="24H", 24H | DISNEY PIXAR
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87528
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES COMEDIAS | ACAPULCO SHORE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AcapulcoShore_logo.png" group-title="24H", 24H | ACAPULCO SHORE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104184
 #EXTINF:-1 tvg-logo="https://bit.ly/3pvcq4N" group-title="24H", 24H | PAJARO LOCO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/104202
 #EXTINF:-1 tvg-logo="https://bit.ly/3lIFvZg" group-title="24H", 24H | PANTERA ROSA
