@@ -1014,3 +1014,40 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/94
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/910
 #EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="CINE SD | MOVISTAR ESTRENO" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="CANALES PELICULAS",CINE SD | MOVISTAR ESTRENO
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/911
+
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| THE WALKING DEAD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="24H TERROR",24H TERROR| THE WALKING DEAD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/87517
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| ORDEN SECRETA" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/263818/263818_173x242.jpg" group-title="24H TERROR",24H TERROR| ORDEN SECRETA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100839
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| OUTCAST" tvg-logo="https://moviehaku.com/thumbs/films/400x590/Outcast-2016.jpg" group-title="24H TERROR",24H TERROR| OUTCAST
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100840
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| PARASYTE THE MAXIM" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2a/Parasyte_-the_maxim-.jpg/revision/latest/top-crop/width/360/height/450?cb=20160928145920&path-prefix=es" group-title="24H TERROR",24H TERROR| PARASYTE THE MAXIM
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100841
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| PENNY DREADFULL" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/24/11/43/4884372.jpg" group-title="24H TERROR",24H TERROR| PENNY DREADFULL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100842
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| SLASHER" tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/23/15/43/145751.jpg" group-title="24H TERROR",24H TERROR| SLASHER
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100843
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| STRANGER THINGS" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/16/39/4888520.jpg?coixp=51&coiyp=36" group-title="24H TERROR",24H TERROR| STRANGER THINGS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100844
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| THE VAMPIRE DIARIES" tvg-logo="https://1.bp.blogspot.com/--LX0OO3Sl6Y/X6cuH7uLEMI/AAAAAAAABsU/R0M2vcCmdIEa3EUU4yWounsuAyKLXpUFgCLcBGAsYHQ/s16000/05x17.%2BEl%2BAmuleto%2Bde%2Bla%2BSuerte.avi_thumbs_%255B2020.11.07_06.07.13%255D.jpg" group-title="24H TERROR",24H TERROR| THE VAMPIRE DIARIES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100845
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| !ZOMBIES TEMPORADA 1 2" tvg-logo="" group-title="24H TERROR",24H TERROR| !ZOMBIES TEMPORADA 1 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100846
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| HAUNTED" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/04/al-borde-de-la-realidad-latinoamerica-poster.jpeg?fit=426%2C597&ssl=1" group-title="24H TERROR",24H TERROR| HAUNTED
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100847
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| FROM DUSK TILL DAWN THE SERIES" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg" group-title="24H TERROR",24H TERROR| FROM DUSK TILL DAWN THE SERIES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100848
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| FEAR THE WALKING DEAD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="24H TERROR",24H TERROR| FEAR THE WALKING DEAD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100849
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| ESCALOFRIOS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="24H TERROR",24H TERROR| ESCALOFRIOS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100850
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| EL MUNDO OCULTO DE SABRINA" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/22/02/56/2323749.jpg" group-title="24H TERROR",24H TERROR| EL MUNDO OCULTO DE SABRINA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100851
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| EL EXORCISTA" tvg-logo="https://www.ecartelera.com/carteles-series/100/191/002_p.jpg" group-title="24H TERROR",24H TERROR| EL EXORCISTA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100852
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| CATLE ROCK" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt" group-title="24H TERROR",24H TERROR| CATLE ROCK
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100853
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| ASH VS EVIL DEAD" tvg-logo="https://menudocaramelito.files.wordpress.com/2017/01/ash-vs-evil-dead-season-2-poster1-1.jpg?w=900" group-title="24H TERROR",24H TERROR| ASH VS EVIL DEAD
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100854
+#EXTINF:-1 tvg-id="" group-title="24H TERROR"| AMERICAN HORROR STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="24H TERROR",24H TERROR| AMERICAN HORROR STORY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100855
