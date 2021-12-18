@@ -1056,57 +1056,57 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/100855
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86767
 #EXTINF:-1 tvg-id="" tvg-name="NBA PPV | BOSTON CELTICS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/NBA_League_Pass.png" group-title="NBA PPV",NBA PPV | BOSTON CELTICS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86768
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | BROOKLYN NETS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | BROOKLYN NETS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | BROOKLYN NETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | BROOKLYN NETS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86769
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | CHARLOTTE HORNETS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | CHARLOTTE HORNETS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | CHARLOTTE HORNETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | CHARLOTTE HORNETS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86770
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | CLEVELAND CAVALIERS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | CLEVELAND CAVALIERS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | CLEVELAND CAVALIERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | CLEVELAND CAVALIERS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86771
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DALLAS MAVERICKS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | DALLAS MAVERICKS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DALLAS MAVERICKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | DALLAS MAVERICKS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86772
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DENVER NUGGETS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | DENVER NUGGETS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DENVER NUGGETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | DENVER NUGGETS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86773
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DETROIT PISTONS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | DETROIT PISTONS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | DETROIT PISTONS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | DETROIT PISTONS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86774
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | GOLDEN STATE WARRIORS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | GOLDEN STATE WARRIORS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | GOLDEN STATE WARRIORS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | GOLDEN STATE WARRIORS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86775
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | HOUSTON ROCKETS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | HOUSTON ROCKETS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | HOUSTON ROCKETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | HOUSTON ROCKETS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86776
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | INDIANA PACERS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | INDIANA PACERS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | INDIANA PACERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | INDIANA PACERS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86777
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | LOS ANGELES CLIPPERS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | LOS ANGELES CLIPPERS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | LOS ANGELES CLIPPERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | LOS ANGELES CLIPPERS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86778
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MEMPHIS GRIZZLIES" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | MEMPHIS GRIZZLIES
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MEMPHIS GRIZZLIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | MEMPHIS GRIZZLIES
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86779
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MIAMI HEAT" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | MIAMI HEAT
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MIAMI HEAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | MIAMI HEAT
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86780
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MILWAUKEE BUCKS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | MILWAUKEE BUCKS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MILWAUKEE BUCKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | MILWAUKEE BUCKS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86781
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MINESOTA TIMBERWOLVES" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | MINESOTA TIMBERWOLVES
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | MINESOTA TIMBERWOLVES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | MINESOTA TIMBERWOLVES
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86782
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW ORLEANS PELICANS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | NEW ORLEANS PELICANS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW ORLEANS PELICANS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | NEW ORLEANS PELICANS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86783
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW YORK KNICKS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | NEW YORK KNICKS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW YORK KNICKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | NEW YORK KNICKS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86784
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | OKLAHOMA CITY THUNDER" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | OKLAHOMA CITY THUNDER
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | OKLAHOMA CITY THUNDER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | OKLAHOMA CITY THUNDER
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86785
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | ORLANDO MAGIC" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | ORLANDO MAGIC
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | ORLANDO MAGIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | ORLANDO MAGIC
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86786
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PHILADELPHIA 76ERS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | PHILADELPHIA 76ERS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PHILADELPHIA 76ERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | PHILADELPHIA 76ERS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86787
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PHOENIX SUNS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | PHOENIX SUNS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PHOENIX SUNS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | PHOENIX SUNS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86788
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PORTLAND TRAIL BLAZERS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | PORTLAND TRAIL BLAZERS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | PORTLAND TRAIL BLAZERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | PORTLAND TRAIL BLAZERS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/86789
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | SACRAMENTO KINGS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | SACRAMENTO KINGS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | SACRAMENTO KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | SACRAMENTO KINGS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/93011
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | SAN ANTONIO SPURS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | SAN ANTONIO SPURS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | SAN ANTONIO SPURS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | SAN ANTONIO SPURS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/93012
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW YORK KNICKS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | NEW YORK KNICKS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | NEW YORK KNICKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | NEW YORK KNICKS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/93599
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | TORONTO RAPTORS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | TORONTO RAPTORS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | TORONTO RAPTORS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | TORONTO RAPTORS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/93600
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | UTAH JAZZ" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | UTAH JAZZ
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | UTAH JAZZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | UTAH JAZZ
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/96458
-#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | WASHINGTON WIZARDS" tvg-logo="http://titanlivetv.com:8080/images/93c41f49d8be08de093018a5059536ca.png" group-title="NBA PPV",NBA PPV | WASHINGTON WIZARDS
+#EXTINF:-1 tvg-id="" tvg-name="NBA PPV | WASHINGTON WIZARDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/105px-National_Basketba group-title="NBA PPV",NBA PPV | WASHINGTON WIZARDS
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/107740
