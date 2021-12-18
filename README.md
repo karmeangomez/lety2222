@@ -388,6 +388,18 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=122&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", GOLDEN EDGE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=124&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="CINE SD | HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="CANALES PELICULAS",CINE SD | HBO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/61
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="CINE SD | HBO 2" tvg-logo="https://static.epg.best/mx/HBO2.mx.png" group-title="CANALES PELICULAS",CINE SD | HBO 2
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/62
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="CINE SD | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="CANALES PELICULAS",CINE SD | HBO FAMILY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/63
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="CINE SD | HBO PLUS" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="CANALES PELICULAS",CINE SD | HBO PLUS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/64
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE SD | HBO SIGNATURE" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="CANALES PELICULAS",CINE SD | HBO SIGNATURE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/65
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE SD | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANALES PELICULAS",CINE SD | HBO POP
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/72
 #EXTINF:-1 group-title="CANALES PELICULAS", A3CINE 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", TBS   
@@ -935,3 +947,68 @@ http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6291
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6292
 #EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="Kids | NATGEO KIDS" tvg-logo="https://static.epg.best/mx/NatGeoKids.mx.png" group-title="Kids", NATGEO KIDS HD
 http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6293
+
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="CINE SD | A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="CANALES PELICULAS",CINE SD | A&E
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/23
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="CINE SD | AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="CANALES PELICULAS",CINE SD | AMC
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/24
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="CINE SD | AXN" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="CANALES PELICULAS",CINE SD | AXN
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/26
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINE SD | CINECANAL" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="CANALES PELICULAS",CINE SD | CINECANAL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/27
+#EXTINF:-1 tvg-id="Cinemax.pa" tvg-name="CINE SD | CINEMAX" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="CANALES PELICULAS",CINE SD | CINEMAX
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/28
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name="CINE SD | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR CHANNEL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/45
+#EXTINF:-1 tvg-id="FoxLife.ar" tvg-name="CINE SD | STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/135px-Star_Life_2021.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR LIFE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/46
+#EXTINF:-1 tvg-id="FoxPremiumAction.pa" tvg-name="CINE SD | STAR ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/135px-Star_Action_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR ACTION
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/47
+#EXTINF:-1 tvg-id="FoxPremiumCinema.pa" tvg-name="CINE SD | STAR CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/135px-Star_Cinema_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR CINEMA
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/48
+#EXTINF:-1 tvg-id="FoxPremiumClassic.pa" tvg-name="CINE SD | STAR CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/135px-Star_Classics_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR CLASSIC
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/49
+#EXTINF:-1 tvg-id="FoxPremiumComedy.pa" tvg-name="CINE SD | STAR COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/135px-Star_Comedy_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR COMEDY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/50
+#EXTINF:-1 tvg-id="FoxPremiumFamily.pa" tvg-name="CINE SD | STAR FUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/135px-Star_Fun_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR FUN
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/51
+#EXTINF:-1 tvg-id="FoxSeries.pa" tvg-name="CINE SD | STAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/135px-Star_Series_2020.svg.png" group-title="CANALES PELICULAS",CINE SD | STAR SERIES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/53
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="CINE SD | FX" tvg-logo="https://static.epg.best/ar/FX.ar.png" group-title="CANALES PELICULAS",CINE SD | FX
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/54
+#EXTINF:-1 tvg-id="FXMovies.ar" tvg-name="CINE SD | FXM" tvg-logo="https://static.epg.best/ar/FXMovies.ar.png" group-title="CANALES PELICULAS",CINE SD | FXM
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/55
+#EXTINF:-1 tvg-id="GoldenLatinAmerica.pa" tvg-name="CINE SD | GOLDEN" tvg-logo="https://static.epg.best/mx/Golden.mx.png" group-title="CANALES PELICULAS",CINE SD | GOLDEN
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/58
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="CINE SD | GOLDEN EDGE" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="CANALES PELICULAS",CINE SD | GOLDEN EDGE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/59
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE SD | GOLDEN PLUS" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="CANALES PELICULAS",CINE SD | GOLDEN PLUS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/60
+#EXTINF:-1 tvg-id="Paramount.pa" tvg-name="CINE SD | PARAMOUNT CHANNEL" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png" group-title="CANALES PELICULAS",CINE SD | PARAMOUNT CHANNEL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/76
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.pa" tvg-name="CINE SD | SONY" tvg-logo="https://static.epg.best/pa/SonyEntertainmentTelevision.pa.png" group-title="CANALES PELICULAS",CINE SD | SONY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/78
+#EXTINF:-1 tvg-id="SpaceLatinAmerica" tvg-name="CINE SD | SPACE" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="CANALES PELICULAS",CINE SD | SPACE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/79
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="CINE SD | STUDIO UNIVERSAL" tvg-logo="https://static.epg.best/pa/StudioUniversalLatinAmerica.pa.png" group-title="CANALES PELICULAS",CINE SD | STUDIO UNIVERSAL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/80
+#EXTINF:-1 tvg-id="SyfyLatinAmerica.pa" tvg-name="CINE SD | SYFY" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="CANALES PELICULAS",CINE SD | SYFY
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/82
+#EXTINF:-1 tvg-id="TBS.ar" tvg-name="CINE SD | TBS" tvg-logo="https://static.epg.best/ar/TBS.ar.png" group-title="CANALES PELICULAS",CINE SD | TBS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/83
+#EXTINF:-1 tvg-id="TCM.ar" tvg-name="CINE SD | TCM" tvg-logo="https://static.epg.best/ar/TCM.ar.png" group-title="CANALES PELICULAS",CINE SD | TCM
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/84
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="CINE SD | TNT" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="CANALES PELICULAS",CINE SD | TNT
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/88
+#EXTINF:-1 tvg-id="TNTSeries.pa" tvg-name="CINE SD | TNT SERIES" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="CANALES PELICULAS",CINE SD | TNT SERIES
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/89
+#EXTINF:-1 tvg-id="UniversalChannel.ar" tvg-name="CINE SD | UNIVERSAL CHANNEL" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="CANALES PELICULAS",CINE SD | UNIVERSAL CHANNEL
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/92
+#EXTINF:-1 tvg-id="Warner.ar" tvg-name="CINE SD | WARNER" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="CANALES PELICULAS",CINE SD | WARNER
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/93
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="CINE SD | DE PELICULA PLUS" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="CANALES PELICULAS",CINE SD | DE PELICULA PLUS
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/94
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="CINE SD | MOVISTAR SERIE" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="CANALES PELICULAS",CINE SD | MOVISTAR SERIE
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/910
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="CINE SD | MOVISTAR ESTRENO" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="CANALES PELICULAS",CINE SD | MOVISTAR ESTRENO
+http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/911
