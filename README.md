@@ -39,7 +39,7 @@ http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_6.m3u8
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3paydjn" group-title="Kids", TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3I5M2H3" group-title="Kids", MAGIC KIDS
+#EXTINF:-1 tvg-logo="https://bit.ly/3e1i4q5" group-title="Kids", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
