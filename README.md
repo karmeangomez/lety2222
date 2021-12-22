@@ -20,7 +20,7 @@ https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN"  group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
-http://stalkertvlatino.com:8080/Restreampe953/Restreampe953/6793
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/44818
 #EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM TWITCH
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_serie_tv
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
