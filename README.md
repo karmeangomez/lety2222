@@ -833,7 +833,7 @@ https://ia801500.us.archive.org/6/items/chucky-1x-6/Chucky1x6.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP7
 https://ia601408.us.archive.org/17/items/chucky-1x-07/Chucky%20-%201x07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP8
-https://bit.ly/3moFb2l
+https://ia601504.us.archive.org/13/items/chuckycap-8480p/Chuckycap8480p.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISION
 https://v-ca.mybtv.net/event/163/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISION
