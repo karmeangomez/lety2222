@@ -812,10 +812,10 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 121
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=700569abc6f0e7bedc8cee6bdf93206e2a8fd652&st.mq=2&st.mvid=2273908558360&st.ip=187.171.9.148&st.dla=on&st.exp=1640228085833&st.hls=on&_prevCmd=movieLayer&tkn=8892
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 122
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ed137bc4b2ac6793d486d3e4ff9f51b4d7ad38bb&st.mq=2&st.mvid=2273909672472&st.ip=187.171.9.148&st.dla=on&st.exp=1640228221062&st.hls=on&_prevCmd=movieLayer&tkn=8285
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 123
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1ffde7e362a9e4f93adadabbb44c4e41f6ab7066&st.mq=1&st.mvid=87498230338&st.ip=187.171.9.148&st.dla=on&st.exp=1640313013833&st.hls=on&_prevCmd=movieLayer&tkn=5633
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 124
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=12396a5caa2f997430dcd44c9153586b24d0d140&st.mq=2&st.mvid=2273926056472&st.ip=187.171.9.148&st.dla=on&st.exp=1640313057865&st.hls=on&_prevCmd=movieLayer&tkn=9731
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP1
