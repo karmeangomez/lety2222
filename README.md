@@ -993,3 +993,29 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/44728
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/46490
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - FENOMENOIDE" tvg-logo="" group-title="CANALES 24/7",24/7 - FENOMENOIDE
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/46491
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="• INFANTILES •",INF - BABY FIRST
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/2958
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" group-title="• INFANTILES •",INF - BABY TV
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3798
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.pa" tvg-name="INF - BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="• INFANTILES •",INF - BOOMERANG
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3085
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" group-title="• INFANTILES •",INF - CARTOON NETWORK
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3249
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="• INFANTILES •",INF - DISCOVERY KIDS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3254
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="• INFANTILES •",INF - DISNEY CHANNEL
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4004
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="• INFANTILES •",INF - DISNEY JUNIOR
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3222
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="INF - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1280px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="• INFANTILES •",INF - DISNEY XD
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3221
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="INF - NATGEO KIDS" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" group-title="• INFANTILES •",INF - NATGEO KIDS
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4144
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF - NICK 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Nick_2_Latinoamerica.png" group-title="• INFANTILES •",INF - NICK 2
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4140
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="• INFANTILES •",INF - NICK JUNIOR
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/4194
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="• INFANTILES •",INF - NICKELODEON
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3071
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="• INFANTILES •",INF - TOONCAST
+http://tv.nousiptv.com:8080/cecilia1/1cecilia/3242
