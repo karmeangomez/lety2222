@@ -810,10 +810,10 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 125
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=87259d2f7ac8260e2a2627b5a1f93fd044f9ac89&st.uid=580427830891&st.mq=2&st.mvid=2273927432728&st.ip=187.171.252.148&st.dla=on&st.exp=1640402385333&st.hls=on&_prevCmd=movieMain&tkn=6063
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 126
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2ffa6d85f8e1646d169cce3261576de11f5dc7ba&st.uid=580427830891&st.mq=2&st.mvid=2273928088088&st.ip=187.171.252.148&st.dla=on&st.exp=1640402458427&st.hls=on&_prevCmd=movieMain&tkn=5339
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 127
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=62906d8b21abf0712aae84362977579492925a20&st.uid=580427830891&st.mq=2&st.mvid=2273929071128&st.ip=187.171.252.148&st.dla=on&st.exp=1640488231322&st.hls=on&_prevCmd=movieMain&tkn=854
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 128
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4bcb11ffaaff21565f6a4e7be3c95f40019c8885&st.uid=580427830891&st.mq=2&st.mvid=2273929857560&st.ip=187.171.252.148&st.dla=on&st.exp=1640488311726&st.hls=on&_prevCmd=movieMain&tkn=7049
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP1
