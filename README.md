@@ -1119,10 +1119,6 @@ http://panel.tured.live:8080/rafa/rafa/107404
 http://panel.tured.live:8080/rafa/rafa/107405
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES ACCION | DC UNIVERSE" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="24/7",24/7 SERIES ACCION | DC UNIVERSE
 http://panel.tured.live:8080/rafa/rafa/107406
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Russian Night" tvg-logo="http://panel.tured.live:8080/images/25cb13d3385d1b3e69fe842aa560a653.png" group-title="ADULTOS",ADULTO | Russian Night
-http://panel.tured.live:8080/rafa/rafa/107414
-#EXTINF:-1 tvg-id="" tvg-name="ADULTO | XXX BIAGASS" tvg-logo="http://panel.tured.live:8080/images/25cb13d3385d1b3e69fe842aa560a653.png" group-title="ADULTOS",ADULTO | XXX BIAGASS
-http://panel.tured.live:8080/rafa/rafa/107415
 #EXTINF:-1 tvg-id="" tvg-name="CULTURALES HD | FOOD NETWORK ESP" tvg-logo="http://panel.tured.live:8080/images/21c382fd00ca045a25db6afc705cb495.png" group-title="CULTURALES FULL HD",CULTURALES HD | FOOD NETWORK ESP
 http://panel.tured.live:8080/rafa/rafa/107476
 #EXTINF:-1 tvg-id="" tvg-name="CINE  | MOVISTAR SERIE" tvg-logo="http://panel.tured.live:8080/images/0e9a53bf35fa1be63d6cbb9a4d16b356.png" group-title="CINE FULL HD",CINE  | MOVISTAR SERIE
@@ -1143,8 +1139,6 @@ http://panel.tured.live:8080/rafa/rafa/127029
 http://panel.tured.live:8080/rafa/rafa/127030
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA SD | RETRO " tvg-logo="https://i.picasion.com/pic91/1f114713b8b819a11aa5eaf1c723bb35.gif" group-title="MUSICA",MUSICA SD | RETRO 
 http://panel.tured.live:8080/rafa/rafa/127031
-#EXTINF:-1 tvg-id="" tvg-name="SALV ||TELE 1 PRUEBA" tvg-logo="" group-title="EL SALVADOR",SALV ||TELE 1 PRUEBA
-http://panel.tured.live:8080/rafa/rafa/129983
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV EC" tvg-logo="http://panel.tured.live:8080/images/11c39d17188f5df5dce95d4b8e4f5900.png" group-title="EVENTOS ESPECIALES ⭐️",EVENTO PPV EC
 http://panel.tured.live:8080/rafa/rafa/135337
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO PPV OP2 EC" tvg-logo="http://panel.tured.live:8080/images/11c39d17188f5df5dce95d4b8e4f5900.png" group-title="EVENTOS ESPECIALES ⭐️",EVENTO PPV OP2 EC
@@ -1202,18 +1196,10 @@ http://panel.tured.live:8080/rafa/rafa/139076
 http://panel.tured.live:8080/rafa/rafa/139086
 #EXTINF:-1 tvg-id="" tvg-name="|US| MLB Network HD" tvg-logo="" group-title="NBA/MLB",|US| MLB Network HD
 http://panel.tured.live:8080/rafa/rafa/139298
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="DEPORTE UHD | GOL TV ECUADOR" tvg-logo="http://panel.tured.live:8080/images/d04df94bd7ca8e91a06449a2e1a67f94.png" group-title="ECUADOR ",DEPORTE UHD | GOL TV ECUADOR
-http://panel.tured.live:8080/rafa/rafa/103288
-#EXTINF:-1 tvg-id="" tvg-name="FUTV EXCLUSIVO TICA TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="COSTA RICA",FUTV EXCLUSIVO TICA TV+
-http://panel.tured.live:8080/rafa/rafa/164381
 #EXTINF:-1 tvg-id="" tvg-name="MEX | TLNOVELAS " tvg-logo="http://panel.tured.live:8080/images/554ff866b856f3a00707a6331272a9b5.png" group-title="TELENOVELAS",MEX | TLNOVELAS 
 http://panel.tured.live:8080/rafa/rafa/164382
 #EXTINF:-1 tvg-id="" tvg-name="MX | ESPN EXTRA HD" tvg-logo="http://panel.tured.live:8080/images/3510937a524f0c8ce030953484c145e6.png" group-title="DEPORTES ESP PREMIUM⭐️",MX | ESPN EXTRA HD
 http://panel.tured.live:8080/rafa/rafa/164383
-#EXTINF:-1 tvg-id="" tvg-name="HN || EBENEZER TV" tvg-logo="http://panel.tured.live:8080/images/76622ab4312662474fa117b7aaabd23d.png" group-title="HONDURAS",HN || EBENEZER TV
-http://panel.tured.live:8080/rafa/rafa/170379
-#EXTINF:-1 tvg-id="" tvg-name="HN  HQ | HCH TV" tvg-logo="http://panel.tured.live:8080/images/38b9eb47127ad411c5a1c47fd47ee582.png" group-title="HONDURAS",HN  HQ | HCH TV
-http://panel.tured.live:8080/rafa/rafa/170386
 #EXTINF:-1 tvg-id="" tvg-name=" SD | CANAL DE LAS ESTRELLAS" tvg-logo="http://panel.tured.live:8080/images/37a92697b71e2894da109873d9b31fc9.png" group-title="CULTURALES FULL HD", SD | CANAL DE LAS ESTRELLAS
 http://panel.tured.live:8080/rafa/rafa/103868
 #EXTINF:-1 tvg-id="" tvg-name="ECU: DIRECTV SPORT 1" tvg-logo="http://panel.tured.live:8080/images/14d7edbe633da1db533aad1a39cc7500.png" group-title="PAQUETE 2 MEGAS",ECU: DIRECTV SPORT 1
