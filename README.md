@@ -812,10 +812,6 @@ https://5eae379fb77bb.streamlock.net/8126/8126/playlist.m3u8?PlaylistM3UCL
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://ia601408.us.archive.org/26/items/905-taltal-tv/905_Taltal_TV.png" group-title="Kids", TALTAL KIDS
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 127
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=62906d8b21abf0712aae84362977579492925a20&st.uid=580427830891&st.mq=2&st.mvid=2273929071128&st.ip=187.171.252.148&st.dla=on&st.exp=1640488231322&st.hls=on&_prevCmd=movieMain&tkn=854
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 128
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4bcb11ffaaff21565f6a4e7be3c95f40019c8885&st.uid=580427830891&st.mq=2&st.mvid=2273929857560&st.ip=187.171.252.148&st.dla=on&st.exp=1640488311726&st.hls=on&_prevCmd=movieMain&tkn=7049
 #EXTINF:-1 tvg-logo="https://archive.org/download/foxlatino/foxlatino.jpg" , FOX LATINO
 http://194.36.190.60:8080/hls/canalfox.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP1
@@ -1019,3 +1015,7 @@ http://tv.nousiptv.com:8080/cecilia1/1cecilia/4194
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3071
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="• INFANTILES •",INF - TOONCAST
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3242
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 128
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=46f0e72208ff760be64c63e4566f38c0d1f82ed7&st.uid=580427830891&st.mq=2&st.mvid=2273929857560&st.ip=187.135.172.119&st.dla=on&st.exp=1640664021335&st.hls=on&_prevCmd=movieMain&tkn=8128
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 129
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a3c94112d32d49e61226c07972d465a233b84910&st.uid=580427830891&st.mq=2&st.mvid=2273930185240&st.ip=187.135.172.119&st.dla=on&st.exp=1640664164992&st.hls=on&_prevCmd=movieMain&tkn=3776
