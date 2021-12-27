@@ -818,46 +818,6 @@ https://ia801500.us.archive.org/6/items/chucky-1x-6/Chucky1x6.mp4
 https://ia601408.us.archive.org/17/items/chucky-1x-07/Chucky%20-%201x07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP8
 https://ia601504.us.archive.org/13/items/chuckycap-8480p/Chuckycap8480p.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISION
-https://v-ca.mybtv.net/event/163/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISION
-https://v-ca.mybtv.net/event/148/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij FHD
-https://v-sd.mybtv.net/event/497/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij HD
-https://v-sd.mybtv.net/event/497/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/449/4407449-middle.png" group-title="NACIONALES", XEWT Canal 12 Tij SD
-https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij FHD
-https://v-sd.mybtv.net/event/515/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij HD
-https://v-sd.mybtv.net/event/515/1280x720.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij HD
-https://v-sd.mybtv.net/event/512/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7E5HkB.png" group-title="NACIONALES", Canal 45 Tij SD
-https://v-sd.mybtv.net/event/515/764x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png", CANAL 5
-https://v-sd.mybtv.net/event/486/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png", ESTRELLA TV
-https://v-sd.mybtv.net/event/490/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181112/bcp/kisspng-logo-azteca-7-tv-azteca-azteca-31-canal-5-5bea3dd7631314.7354304215420779114058.jpg", AZTECA 7
-https://v-sd.mybtv.net/event/502/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/NuestraVision_Logo_Final_Color_Horizontal_20180902_01-opt-e1578594383281.png", NUESTRA VISION
-https://v-sd.mybtv.net/event/524/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/%C3%89xitos_TV_2012.png"TELE EXITOS
-https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png"EL NUEVE
-https://v-sd.mybtv.net/event/761/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/LATV_logo.png"LATV
-https://v-ca.mybtv.net/event/129/640x480.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Telemundo_Logo_2018-1.svg/1200px-Telemundo_Logo_2018-1.svg.png", TELEMUNDO
-https://v-ca.mybtv.net/event/140/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/unimas_c.png", UNIMAS
-https://v-ca.mybtv.net/event/147/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISION
-https://v-ca.mybtv.net/event/163/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd
 #EXTINF:-1, FOX SPORTS tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=171&format=HLSAD&f=.m3u8   
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
