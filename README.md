@@ -831,7 +831,6 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7" group-title="TODOS LOS CANALES", STAR★GO!
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK" group-title="TODOS LOS CANALES", GUIA★CANALES
