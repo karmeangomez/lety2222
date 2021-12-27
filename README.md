@@ -1490,7 +1490,7 @@ http://panel.tured.live:8080/rafa/rafa/172630
 http://panel.tured.live:8080/rafa/rafa/172749
 
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 128
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=46f0e72208ff760be64c63e4566f38c0d1f82ed7&st.uid=580427830891&st.mq=2&st.mvid=2273929857560&st.ip=187.135.172.119&st.dla=on&st.exp=1640664021335&st.hls=on&_prevCmd=movieMain&tkn=8128
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 129
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a3c94112d32d49e61226c07972d465a233b84910&st.uid=580427830891&st.mq=2&st.mvid=2273930185240&st.ip=187.135.172.119&st.dla=on&st.exp=1640664164992&st.hls=on&_prevCmd=movieMain&tkn=3776
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 130
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bf51a280ce5da8249b2e9685db3628f2fbe6fb85&st.uid=580427830891&st.mq=2&st.mvid=2273930643992&st.ip=187.135.172.119&st.dla=on&st.exp=1640742914009&st.hls=on&_prevCmd=movieMain&tkn=6464
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 131
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3e826a686747abc590f934b5853a2dd5d18ca1e0&st.uid=580427830891&st.mq=2&st.mvid=2273931233816&st.ip=187.135.172.119&st.dla=on&st.exp=1640742989544&st.hls=on&_prevCmd=movieMain&tkn=583
