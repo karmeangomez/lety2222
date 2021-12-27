@@ -442,7 +442,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1732&format=HLSAD&f=.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", AZ CINEMA 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title=""CANALES PELICULAS"", CINE.AR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title="CANALES PELICULAS", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 #EXTINF:-1 group-title="CANALES PELICULAS", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
