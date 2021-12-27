@@ -444,17 +444,17 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title=""CANALES PELICULAS"", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
-#EXTINF:-1 group-title=""CANALES PELICULAS"", CINE REAL
+#EXTINF:-1 group-title="CANALES PELICULAS", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 group-title=""CANALES PELICULAS"", TU CINE
+#EXTINF:-1 group-title="CANALES PELICULAS", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 group-title=""CANALES PELICULAS"", CINE HORRORFY
+#EXTINF:-1 group-title="CANALES PELICULAS", CINE HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1 group-title=""CANALES PELICULAS"", CINE JUNTOS
+#EXTINF:-1 group-title="CANALES PELICULAS", CINE JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NMZLgS0/CINE-SURE-O.jpg" group-title=""CANALES PELICULAS"", CINE SUREÑO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NMZLgS0/CINE-SURE-O.jpg" group-title="CANALES PELICULAS", CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 group-title=""CANALES PELICULAS"", TOP CINE
+#EXTINF:-1 group-title="CANALES PELICULAS", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -818,6 +818,7 @@ https://ia801500.us.archive.org/6/items/chucky-1x-6/Chucky1x6.mp4
 https://ia601408.us.archive.org/17/items/chucky-1x-07/Chucky%20-%201x07.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg" group-title="24H", CHUCKY CAP8
 https://ia601504.us.archive.org/13/items/chuckycap-8480p/Chuckycap8480p.mp4
+
 #EXTINF:-1, FOX SPORTS tvg-logo="https://www.izzigo.tv/images/ch/136/LOGO/m/0", FOX SPORTS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=171&format=HLSAD&f=.m3u8   
 #EXTINF:-1, FOX SPORTS 2 tvg-logo="https://www.izzigo.tv/images/ch/137/LOGO/m/0", FOX SPORTS 2
