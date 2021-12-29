@@ -1667,7 +1667,7 @@ http://4eq.ir/toonlive
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d1caea392ce05125e116380fddd9d1f2b04ecae3&st.mq=2&st.mvid=2273931233816&st.ip=187.135.172.119&st.dla=on&st.exp=1640922808538&st.hls=on&_prevCmd=movieLayer&tkn=5766
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 132
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=827f6e03a444e079d4dd8acc7d32a135f3410216&st.mq=2&st.mvid=2273932085784&st.ip=187.135.172.119&st.dla=on&st.exp=1640922853492&st.hls=on&_prevCmd=movieLayer&tkn=8906
-#EXTINF:-1 tvg-logo="https://bit.ly/3qrkuUC" group-title="24H", DRAGON BALL SUPER
+#EXTINF:-1 tvg-logo="https://bit.ly/3qrkuUC" group-title="24H", 24H | DRAGON BALL SUPER
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/dragon_ball_24_7
-#EXTINF:-1 tvg-logo="https://bit.ly/3FE4l4u" group-title="24H", DRAGON BALL Z
+#EXTINF:-1 tvg-logo="https://bit.ly/3FE4l4u" group-title="24H", 24H | DRAGON BALL Z
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/dragoonballz2021
