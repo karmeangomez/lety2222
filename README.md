@@ -1663,5 +1663,7 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="TODOS LOS CANALES", KANADE TV
 http://4eq.ir/toonlive
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="TODOS LOS CANALES", REBELDE 131
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3e826a686747abc590f934b5853a2dd5d18ca1e0&st.uid=580427830891&st.mq=2&st.mvid=2273931233816&st.ip=187.135.172.119&st.dla=on&st.exp=1640742989544&st.hls=on&_prevCmd=movieMain&tkn=583
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 131
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d1caea392ce05125e116380fddd9d1f2b04ecae3&st.mq=2&st.mvid=2273931233816&st.ip=187.135.172.119&st.dla=on&st.exp=1640922808538&st.hls=on&_prevCmd=movieLayer&tkn=5766
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 132
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=827f6e03a444e079d4dd8acc7d32a135f3410216&st.mq=2&st.mvid=2273932085784&st.ip=187.135.172.119&st.dla=on&st.exp=1640922853492&st.hls=on&_prevCmd=movieLayer&tkn=8906
