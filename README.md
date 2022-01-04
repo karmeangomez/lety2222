@@ -837,10 +837,10 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
 
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 131
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d1caea392ce05125e116380fddd9d1f2b04ecae3&st.mq=2&st.mvid=2273931233816&st.ip=187.135.172.119&st.dla=on&st.exp=1640922808538&st.hls=on&_prevCmd=movieLayer&tkn=5766
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 132
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=827f6e03a444e079d4dd8acc7d32a135f3410216&st.mq=2&st.mvid=2273932085784&st.ip=187.135.172.119&st.dla=on&st.exp=1640922853492&st.hls=on&_prevCmd=movieLayer&tkn=8906
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 133
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=64bad0fcaa910fea60d57d15187905f33cdd6bd3&st.uid=580427830891&st.mq=2&st.mvid=2273933199896&st.ip=189.129.1.148&st.dla=on&st.exp=1641437412940&st.hls=on&_prevCmd=movieMain&tkn=9085
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 134
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1bd68d3ba70c0b2effe5c1880a416ec871b55206&st.uid=580427830891&st.mq=2&st.mvid=2273933789720&st.ip=189.129.1.148&st.dla=on&st.exp=1641437499853&st.hls=on&_prevCmd=movieMain&tkn=7771
 #EXTINF:-1 tvg-logo="https://bit.ly/3qrkuUC" group-title="24H", 24H | DRAGON BALL SUPER
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/dragon_ball_24_7
 #EXTINF:-1 tvg-logo="https://bit.ly/3FE4l4u" group-title="24H", 24H | DRAGON BALL Z
