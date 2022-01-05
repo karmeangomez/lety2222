@@ -819,7 +819,8 @@ https://bit.ly/3yG5m9B
 https://cdnvideo.webvideocore.net/enc4_lri7hgerk6h2b93v4i7eu357je4pjutr48kv5c8qd9abagtoio2s00s6eo7eastii5fra334i3l8u5njf7jduc2og6mvqqcb06o6m60qko8n4g83jif2hmoqet6la8kfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 133
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=64bad0fcaa910fea60d57d15187905f33cdd6bd3&st.uid=580427830891&st.mq=2&st.mvid=2273933199896&st.ip=189.129.1.148&st.dla=on&st.exp=1641437412940&st.hls=on&_prevCmd=movieMain&tkn=9085
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 134
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=1bd68d3ba70c0b2effe5c1880a416ec871b55206&st.uid=580427830891&st.mq=2&st.mvid=2273933789720&st.ip=189.129.1.148&st.dla=on&st.exp=1641437499853&st.hls=on&_prevCmd=movieMain&tkn=7771
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 135
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cf7e54298ff5ce761697dfcf6cd521170a20f377&st.uid=580427830891&st.mq=2&st.mvid=2273934379544&st.ip=189.129.1.148&st.dla=on&st.exp=1641526251414&st.hls=on&_prevCmd=movieMain&tkn=3575
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 136
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=c1fc60694416482c405f472f21a23467c05c55e4&st.uid=580427830891&st.mq=2&st.mvid=2273935297048&st.ip=189.129.1.148&st.dla=on&st.exp=1641526337197&st.hls=on&_prevCmd=movieMain&tkn=9753
+
