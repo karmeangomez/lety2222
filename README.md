@@ -823,5 +823,7 @@ https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
 https://bit.ly/336RY2z
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 138
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4d148f516d5f19b00ebcae440708ba53ec811991&st.uid=580427830891&st.mq=2&st.mvid=2273936607768&st.ip=189.129.4.60&st.dla=on&st.exp=1641697081623&st.hls=on&_prevCmd=movieMain&tkn=2605
-
-O
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 139
+https://bit.ly/3zErwd2
+#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 140
+https://bit.ly/3t4vgDg
