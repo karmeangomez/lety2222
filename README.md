@@ -166,7 +166,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2305&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/bbf4/pv804t6ncsd7audzg.jpg" group-title="CANALES PRINCIPALES", AZ CLIC
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 tvg-logo="http://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="CANALES PRINCIPALES", TVT Tabasco
+#EXTINF:-1 tvg-logo="http://tvt.mx/wp-content/uploads/2019/06/logo_tvt_retina.png" group-title="CANALES PRINCIPALES", TVT TABASCO
 https://live10.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3nB6mIb" group-title="CANALES PRINCIPALES", MVS TV
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2149&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -310,15 +310,15 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CANALES★ENTRETENIMIENTO
 https://archive.org/serve/star-channel-graficas-2021/STAR%20Channel%20-%20Gr%C3%A1ficas%202021.mp4
-#EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png", Cine Club 
+#EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png", CINE CLUB
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CANALES ENTRETENIMIENTO", DANTV - RECOMENDADO
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CANALES ENTRETENIMIENTO", DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CANALES ENTRETENIMIENTO", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAz_rFFzMlzm8pgVhcVq9PxzjOmeHWGHJSykuw=s900-mo-c-c0xffffffff-rj-k-no", RETRO TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://bit.ly/32gZl77", Canal Mundo+
+#EXTINF:-1 group-title="CANALES ENTRETENIMIENTO" tvg-logo="https://bit.ly/32gZl77", CANAL MUNDO+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3Fyrjtu" group-title="CANALES ENTRETENIMIENTO", STAR CHANNEL HD 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -507,17 +507,17 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Maratones",Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Maratones",Pluto TV Ciencia
+#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Maratones", CIENCIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Maratones",Pluto TV Historia
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Maratones", HISTORIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV Series Latinas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="254" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Maratones",Pluto TV Investiga
+#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="254" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Maratones", INVESTIGA 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Maratones",Pluto TV Naturaleza
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Maratones", NATURALEZA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Maratones",Pluto TV Aventura
+#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Maratones", AVENTURA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CANALES MUSICA", CONECTA TV
@@ -631,13 +631,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d57
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-chno="191" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Maratones",Pluto TV Velocidad
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-chno="283" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Maratones", VELOCIDAD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CANALES DEPORTES",Pluto TV Deportes
+#EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CANALES DEPORTES", DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde197f6591d0009839e04" tvg-chno="251" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Maratones",Pluto TV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Maratones",Pluto TV Misterios
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Maratones", MISTERIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Maratones",Pluto TV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -819,12 +819,6 @@ https://bit.ly/3yG5m9B
 https://cdnvideo.webvideocore.net/enc4_lri7hgerk6h2b93v4i7eu357je4pjutr48kv5c8qd9abagtoio2s00s6eo7eastii5fra334i3l8u5njf7jduc2og6mvqqcb06o6m60qko8n4g83jif2hmoqet6la8kfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 137
-https://bit.ly/336RY2z
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 138
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=4d148f516d5f19b00ebcae440708ba53ec811991&st.uid=580427830891&st.mq=2&st.mvid=2273936607768&st.ip=189.129.4.60&st.dla=on&st.exp=1641697081623&st.hls=on&_prevCmd=movieMain&tkn=2605
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 139
-https://bit.ly/3zErwd2
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 140
 https://bit.ly/3t4vgDg
 #EXTINF:-1 tvg-logo="https://bit.ly/3HO3gbc" group-title="CANALES PRINCIPALES", TELEMUNDO USA
