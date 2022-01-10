@@ -828,5 +828,4 @@ https://bit.ly/3zErwd2
 #EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 140
 https://bit.ly/3t4vgDg
 #EXTINF:-1 tvg-logo="https://bit.ly/3HO3gbc" group-title="CANALES PRINCIPALES", TELEMUNDO USA
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/
-tl_933mgtt
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/tl_933mgtt
