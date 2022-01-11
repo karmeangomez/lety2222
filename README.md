@@ -13,6 +13,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN" group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1035" tvg-name="Kids90" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="Kids", KIDS90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_tv_serie02
 #EXTINF:-1 tvg-logo="https://bit.ly/3zRO4XO" group-title="24H", 24H | AURONPLAY 
