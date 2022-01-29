@@ -11,8 +11,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 http://blackaddon.com/play/zufree-156.php?c=3193
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png" group-title="Kids", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg" group-title="Kids", LIM TV | ESTRENOS
-https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN" group-title="Kids", ORBIT | ESTRENOS
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-name="Kids90" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="Kids", KIDS90
@@ -22,22 +20,6 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://bit.ly/3Cu8HJj" group-title="Kids", MANE BABY
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="Kids", NICK TEEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5dd6de52b9914200091f047a" tvg-chno="179" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Kids", TEEN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://bit.ly/3eqb1HG" group-title="Kids", ACS KIDS
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3FQY8lI" group-title="Kids", LATINO KIDS
-https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg" group-title="Kids", ENERGEEK KIDS
-https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Kids", Rakuten TV Familia
-http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" group-title="Principales" , CANALES★PRINCIPALES
 https://bit.ly/3qB85iD
 #EXTINF:-1 tvg-logo="http://ky-iptv.com:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="Principales", A3SERIES
@@ -260,6 +242,20 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=hkc
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=109&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",ONCE NIÑOS FHD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=3315&format=HLS&f=.m3u8
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png" group-title="Kids", NICK TEEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dd6de52b9914200091f047a" tvg-chno="179" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Kids", TEEN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://bit.ly/3eqb1HG" group-title="Kids", ACS KIDS
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3ktpeHk" group-title="Kids", DREIKO KIDS
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3FQY8lI" group-title="Kids", LATINO KIDS
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/energeek/energeek.jpg" group-title="Kids", ENERGEEK KIDS
+https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Kids", Rakuten TV Familia
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-chno="186" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Kids",NARUTO 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="Kids", IPE KIDS
@@ -1177,3 +1173,5 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n_vq7ygt7uo/URBJ24qpOAI/AAAAAAAAXX4/Wa-N2u_HUGI/s1600/Teletoon+Retro+logo.png" group-title="Kids", TELETOON KIDS
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Programacion Local" tvg-logo="https://archive.org/download/limtv/limtv.jpg" group-title="Kids", LIM TV | ESTRENOS
+https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?PlaylistM3UCL
