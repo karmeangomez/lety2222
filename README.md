@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTINF:-1 tvg-logo="https://bit.ly/3cgEUJ7" group-title="Principales", STAR★GO!
+#EXTINF:-1 tvg-logo="https://bit.ly/3Gc1lvM" group-title="Principales", STAR★GO!
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3c55vZK" group-title="Principales", GUIA★CANALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
