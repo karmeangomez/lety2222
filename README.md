@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/PlutoTV/all.xml.gz","http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
 #EXTINF:-1 tvg-logo="https://bit.ly/3Gc1lvM" group-title="Principales", STAR★GO!
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://bit.ly/3g73NJc" group-title="Principales", GUIA★CANALES
@@ -8,7 +8,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3o9EE5o" group-title="Principales", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="Deportes", AFIZZIONADOS
-http://blackaddon.com/play/zufree-200.php?c=3193
+http://clubtv.link/fb3/lista2.php?c=3193
 #EXTINF:-1 tvg-logo="https://www.quadratin.com.mx/www/wp-content/uploads/2019/06/8PZrz5Ka.png" group-title="Kids", CINEPOLIS | ESTRENOS
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://bit.ly/3x5uVQN" group-title="Kids", ORBIT | ESTRENOS
@@ -1157,12 +1157,6 @@ https://bit.ly/3yG5m9B
 https://cdnvideo.webvideocore.net/enc4_lri7hgerk6h2b93v4i7eu357je4pjutr48kv5c8qd9abagtoio2s00s6eo7eastii5fra334i3l8u5njf7jduc2og6mvqqcb06o6m60qko8n4g83jif2hmoqet6la8kfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/toniza/toniza.png" group-title="Kids",TOONIZAKI
 https://live.admefy.com/live/mature_apricot_e6bc9.m3u8
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 140
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ecb69e71e3112a33c7cc7ba5f06af61e51086583&st.mq=2&st.mvid=2273937787416&st.ip=187.135.137.135&st.dla=on&st.exp=1642040153482&st.hls=on&_prevCmd=movieLayer&tkn=5390
-#EXTINF:-1 tvg-logo="https://thetvdb.com/banners/posters/80401-4.jpg" group-title="24H", REBELDE 141
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b1bad8fcd3cb3f4c9c4d4c46be023c4ddc2a7341&st.mq=2&st.mvid=2274825734680&st.ip=187.135.137.135&st.dla=on&st.exp=1642040201083&st.hls=on&_prevCmd=movieLayer&tkn=774
-#EXTINF:-1 tvg-logo="https://bit.ly/3HO3gbc" group-title="Principales", TELEMUNDO USA
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/tl_933mgtt
 #EXTINF:-1 tvg-logo="https://bit.ly/3xlJeRj" group-title="Kids", ANIME ZONE
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3e1i4q5" group-title="Kids", MAGIC KIDS
