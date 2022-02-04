@@ -43,7 +43,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=317&f=HLSAD&s=hkc
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=317&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="http://ky-iptv.com:25461/images/9680ce04cec7695e40e89b74cd5d3c2a.png",TELEMUNDO INTERNACIONAL
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://ky-iptv.com:25461/images/9680ce04cec7695e40e89b74cd5d3c2a.png",TELEMUNDO INTERNACIONAL FHD
+#EXTINF:-1 group-title="Principales" tvg-logo="http://ky-iptv.com:25461/images/9680ce04cec7695e40e89b74cd5d3c2a.png",TELEMUNDO INTERNACIONAL FHD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=85&format=HLS&f=.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="http://ky-iptv.com:25461/images/ae02f68e3252392c0422c02a477b0e49.png",ADN 40
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
