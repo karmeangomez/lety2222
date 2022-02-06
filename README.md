@@ -1123,6 +1123,8 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
 #EXTINF:-1 tvg-logo="https://bit.ly/3rwbaAo" group-title="24H", 24H | ARIGAMEPLAYS 
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
+#EXTINF:-1 tvg-logo="https://bit.ly/3sk5cSx" group-title="24H", 24H | JUANSGUARNIZO 
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/juansguarnizo
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/306cGyA" group-title="24H", 24H | EL CHAVO 2
