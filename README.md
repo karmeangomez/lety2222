@@ -1121,7 +1121,7 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/s
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/malcolm_mania_tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3zRO4XO" group-title="24H", 24H | AURONPLAY 
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-70x70.pnghttps://bit.ly/3zRO4XO" group-title="24H", 24H | ARIGAMEPLAYS 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-300x300.png" group-title="24H", 24H | ARIGAMEPLAYS 
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
