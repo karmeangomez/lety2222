@@ -481,7 +481,7 @@ http://clubtv.link/fb3/lista2.php?c=3304
 http://clubtv.link/fb3/lista2.php?c=3299
 #EXTINF:-1 group-title="Cine" tvg-logo="http://xtream-coders.com/x0/movie/HBOSIGN.png",HBO SIGNATURE 
 http://clubtv.link/fb3/lista2.php?c=3301
-#EXTINF:-1 group-title="Cine" tvg-logo="https://bit.ly/32ZHuCo", CINE LATINO
+#EXTINF:-1 group-title="Cine" tvg-logo="https://bit.ly/32ZHuCo", CINELATINO
 http://clubtv.link/fb3/lista2.php?c=3279
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="Cine", GOLDEN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
