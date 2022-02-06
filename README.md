@@ -1116,27 +1116,24 @@ https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3E5qeZM" group-title="Kids", KANADE TV
 http://4eq.ir/toonlive
 #EXTINF:-1 tvg-logo="https://bit.ly/3Dgf2bx" group-title="24H", 24H | MALCOLM 
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/malcolm_tv_serie02
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/seriestvhd
 #EXTINF:-1 tvg-logo="https://bit.ly/3K1YxEC" group-title="24H", 24H | MALCOLM 2
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/yalemamakeup
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/malcolm_mania_tv
 #EXTINF:-1 tvg-logo="https://bit.ly/3zRO4XO" group-title="24H", 24H | AURONPLAY 
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/auronplay
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b563146b-3b41-4f0e-937f-031357516c23-profile_image-70x70.pnghttps://bit.ly/3zRO4XO" group-title="24H", 24H | ARIGAMEPLAYS 
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/arigameplays
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1636594365.0059/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24H", 24H | EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/306cGyA" group-title="24H", 24H | EL CHAVO 2
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/chavo_mania
-#EXTINF:-1 tvg-logo="https://bit.ly/3GhUYaI" group-title="24H", 24H | CHESPIRITO
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/botellita_de_jerez
-#EXTINF:-1 tvg-logo="https://bit.ly/31fndYV" group-title="24H", 24H | EL CHAPULIN
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/chavo_del_8_latino_tv
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--LzCH4y9Z--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffb81c,e_outline:48/co_ffb81c,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1519921682/production/designs/2409246_0.jpg" group-title="24H", 24H | LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a8/dd/4f/a8dd4f5f087775f4b37a6640fdb280c9.jpg" group-title="24H", 24H | LOS SIMPSONS 2 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3qrkuUC" group-title="24H", 24H | DRAGON BALL SUPER
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/dragon_ball_24_7
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3FE4l4u" group-title="24H", 24H | DRAGON BALL Z
-https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/dragoonballz2021
+https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://m.twitch.tv/Dragon_Ball_En_Vivo_03
 
 #EXTINF:-1 tvg-logo="https://bit.ly/30xDeJ6", group-title="24H", SPIDERMAN  NWH | STAR★GO!
 https://bit.ly/3yG5m9B
