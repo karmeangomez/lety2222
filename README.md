@@ -183,7 +183,7 @@ https://v-la.mybtv.net/event/112/1280x720.m3u8?start_time=2021-05-16&end_time=20
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3oKuSGc" group-title="Principales", CARACOL
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png" group-title="Kids" , KIDS★
+#EXTINF:-1 tvg-logo="https://bit.ly/3Gc1lvM" group-title="Kids" , KIDS★
 https://ia601508.us.archive.org/7/items/nickelodeon-latinoamerica-promo-el-show-de-patricio-estrella-2021/Nickelodeon%20Latinoamerica%20-%20Promo%20El%20Show%20De%20Patricio%20Estrella%202021.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3x6iYu7" group-title="Kids" , RADIO DISNEY MÉXICO
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPOPFM.mp3
@@ -393,7 +393,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 group-title="Principales" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tv4.png",TV4.1 GUANAJUATO FHD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2274&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="Cine" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", ENTRETENIMIENTO★
+#EXTINF:-1 group-title="Cine" tvg-logo="https://bit.ly/3Gc1lvM", ENTRETENIMIENTO★
 https://archive.org/serve/star-channel-graficas-2021/STAR%20Channel%20-%20Gr%C3%A1ficas%202021.mp4
 #EXTINF:-1 tvg-logo="https://bit.ly/3Fyrjtu" group-title="Entretenimiento", STAR CHANNEL HD 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -479,7 +479,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Maratones", COCINA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CINE★
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://bit.ly/3Gc1lvM", CINE★
 https://bit.ly/3DuRjWc
 #EXTINF:-1 group-title="Cine" tvg-logo="https://ewscripps.brightspotcdn.com/2c/7a/2284f50e49c1b7595592ddfc51f5/hbo.png",HBO 
 http://clubtv.link/fb3/lista2.php?c=3296
@@ -654,7 +654,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Cine",Cine Terror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", CULTURA★
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://bit.ly/3Gc1lvM", CULTURA★
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-id="798" tvg-name="Cultura Online" tvg-logo="https://www.m3u.cl/logo/798_Cultura_Online.png", Cultura Online 
 https://v2.tustreaming.cl/culturaonline/index.m3u8?PlaylistM3UCL
@@ -751,7 +751,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d
 #EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Maratones", AVENTURA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Música" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", MUSICA★
+#EXTINF:-1 group-title="Música" tvg-logo="https://bit.ly/3Gc1lvM", MUSICA★
 https://bit.ly/3DuRjWc
 #EXTINF:-1 group-title="Música", CONECTA TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
@@ -806,7 +806,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", NOTICIAS★
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://bit.ly/3Gc1lvM", NOTICIAS★
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-logo="" group-title="Noticias", RT ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
@@ -890,7 +890,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvd
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhhcu.png",CANAL DEL CONGRESO FHD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=hk9psvdthd7j01s&lchId=2331&format=HLS&f=.m3u8
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.pixabay.com/photo/2013/07/13/11/26/star-158137_640.png", DEPORTES★
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://bit.ly/3Gc1lvM", DEPORTES★
 https://bit.ly/3DuRjWc
 #EXTINF:-1 tvg-logo="https://bit.ly/3DC6FIg" group-title="Deportes", TUDN 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1049&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -1027,6 +1027,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef
 #EXTINF:-1 tvg-id="5ee8d84bfb286e0007285aad" tvg-chno="563" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Maratones", FASHIONBOX
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3GJC3FL" group-title="Maratones" , MARATONES★
+https://bit.ly/3qB85iD
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-chno="306" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Maratones", ARCHIVOS FORENSES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
