@@ -19,7 +19,7 @@ http://clubtv.link/fb3/lista2.php?c=3258
 http://clubtv.link/fb3/lista2.php?c=3181
 #EXTINF:-1 tvg-logo="https://bit.ly/3gqWI6q" group-title="Principales", UNIVISION
 http://clubtv.link/fb3/lista2.php?c=3190
-#EXTINF:-1 tvg-logo="https://bit.ly/34jOVF7" group-title="Kids", ANIPLUS
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png" group-title="Kids", ANIPLUS♥
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://bit.ly/3e1i4q5" group-title="Kids", MAGIC KIDS
 https://live.flote.app/dc20fa59-75b9-4f94-9652-e66c22692e92/index.m3u8
