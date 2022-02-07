@@ -7,7 +7,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://bit.ly/3o9EE5o" group-title="Principales", KIDS★STAR GO!
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://bit.ly/3gvMLox" group-title="Principales", NUEVOS CANALES
+#EXTINF:-1 tvg-logo="https://bit.ly/3GwLTuf" group-title="Principales", NUEVOS CANALES
 https://karmeangomez.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/upGoAejd7LM?best
 #EXTINF:-1 tvg-logo="https://bit.ly/3otl3go" group-title="Principales", GALAVISION
 http://clubtv.link/fb3/lista3.php?c=galavision
@@ -17,7 +17,7 @@ http://clubtv.link/fb3/lista3.php?c=unimas
 http://clubtv.link/fb3/lista2.php?c=3258
 #EXTINF:-1 tvg-logo="https://bit.ly/3GvLKaG" group-title="Principales", PASIONES
 http://clubtv.link/fb3/lista2.php?c=3181
-#EXTINF:-1 tvg-logo="https://bit.ly/3J6obql" group-title="Principales", UNIVISION
+#EXTINF:-1 tvg-logo="https://bit.ly/3gqWI6q" group-title="Principales", UNIVISION
 http://clubtv.link/fb3/lista2.php?c=3190
 #EXTINF:-1 tvg-logo="https://bit.ly/34jOVF7" group-title="Kids", ANIPLUS
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
